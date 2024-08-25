@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Simulator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="home-container">
+        <h1>Guía de estudio</h1>
+        <form id="test-form">
+            <!-- Questions will be inserted here by JavaScript -->
+        </form>
+        
+        <div class="button-container" id="button-iniciar">
+          <button id="submit-btn">Iniciar</button>
+        </div>        
+    </div>
+    <div id="simulador-container" class="hidden">    
+      <h3 id="contador-container">0 de 20 preguntas</h3>
+      <div id="button-simulador-container">
+        <button id="button-anterior">Anterior</button>      
+        <div style="display:flex; justify-content: center;align-items: center;">
+          <button id="button-verificar">Verificar</button>
+          <button id="button-comprobar">Comprobar</button>
+        </div>
+        <button id="button-siguiente">Siguiente</button>
+      </div>  
+      <p id="error-text">Debe seleccionar una respuesta</p>      
+      
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

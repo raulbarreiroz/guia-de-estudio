@@ -1,0 +1,1208 @@
+[
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "El Branding es: ",
+    "indice": 1,
+    "respuestas": [
+      {
+        "nombre": "Es el proceso de definici\u00f3n y construcci\u00f3n de una marca ",
+        "correcta": true
+      },
+      {
+        "nombre": "Es redise\u00f1o de marcas existentes en el mercado ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "El objetivo del Branding es: ",
+    "indice": 2,
+    "respuestas": [
+      {
+        "nombre": "Vender productos a menor costo en comparaci\u00f3n con la competencia ",
+        "correcta": false
+      },
+      {
+        "nombre": "Despertar sensaciones y crear conexiones conscientes e inconscientes ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "La importancia del Branding es: ",
+    "indice": 3,
+    "respuestas": [
+      {
+        "nombre": "Es necesario que la empresa sepa diferenciarse en un mercado de competencia perfecta ",
+        "correcta": true
+      },
+      {
+        "nombre": "Es una tendencia que induce al consumidor a comprar m\u00e1s productos ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "La marca es: ",
+    "indice": 4,
+    "respuestas": [
+      {
+        "nombre": "Es el nombre de la empresa o negocio ",
+        "correcta": false
+      },
+      {
+        "nombre": "La marca es lo que nos distingue de la competencia  ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "Las iniciales VUCA hacen referencia a: ",
+    "indice": 5,
+    "respuestas": [
+      {
+        "nombre": "Vigencia, Utilidad, Comportamiento, Actitud ",
+        "correcta": false
+      },
+      {
+        "nombre": "Vol\u00e1til, Incierto (Uncertain), Complejo, Ambiguo ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "El Branding sonoro o audio branding consiste en: ",
+    "indice": 6,
+    "respuestas": [
+      {
+        "nombre": "Crear la identidad sonora de una marca por medio de sonidos, melod\u00edas y voces ",
+        "correcta": true
+      },
+      {
+        "nombre": "Hacer comerciales llamativos por medio del uso de sonidos, melod\u00edas y voces ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "Un Moodboard es: ",
+    "indice": 7,
+    "respuestas": [
+      {
+        "nombre": "Un tablero en el que se define el estilo visual de un proyecto ",
+        "correcta": true
+      },
+      {
+        "nombre": "El proceso de creaci\u00f3n digital del logo en una tableta gr\u00e1fica ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "Una submarca es: ",
+    "indice": 8,
+    "respuestas": [
+      {
+        "nombre": "La marca inicial de un negocio que ha sido registrada en el mercado ",
+        "correcta": false
+      },
+      {
+        "nombre": "Un identificador secundario para tu marca, que usar\u00e1s en lugar del logo principal ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "Letter cutting es una tendencia de dise\u00f1o gr\u00e1fico que se basa en: ",
+    "indice": 9,
+    "respuestas": [
+      {
+        "nombre": "Cortar o sesgar la tipograf\u00eda por la mitad ",
+        "correcta": true
+      },
+      {
+        "nombre": "Utilizar cortes irregulares en las hojas membretadas ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "El Branding es la gesti\u00f3n global de todos los elementos tangibles e intangibles que rodean a la marca: ",
+    "indice": 10,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso  ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "El objetivo de desarrollar un branding acertado ser\u00e1 extender la marca en el mercado, posicionarla como un referente y ubicarla en la mente de los consumidores: ",
+    "indice": 11,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "La submarca es uno de los elementos del branding que m\u00e1s trabajan con el subconsciente del consumidor: ",
+    "indice": 12,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": false
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "La submarca se utiliza como un elemento para reforzar la identidad visual, sin tener que repetir el logo una y otra vez: ",
+    "indice": 13,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "El uso de la tipograf\u00eda en el dise\u00f1o no influye en la personalidad de la marca: ",
+    "indice": 14,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": false
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "Bubble design es una tendencia que hace referencia al uso o dise\u00f1o de tipograf\u00edas con forma de pompas de jab\u00f3n: ",
+    "indice": 15,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "Saturaci\u00f3n gr\u00e1fica, asimetr\u00eda, colores llamativos y austeridad tipogr\u00e1fica son las principales caracter\u00edsticas del Antidise\u00f1o Maximalista: ",
+    "indice": 16,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "El Topical Marketing es una tendencia que consiste en humanizar a la marca: ",
+    "indice": 17,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": false
+      },
+      {
+        "nombre": "Falso  ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "El Smart Packaging consisten en el uso de c\u00f3digos QR o de realidad aumentada en las etiquetas o el empaque: ",
+    "indice": 18,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "El manual de identidad corporativa es un documento que recopila la informaci\u00f3n del funcionamiento de un producto: ",
+    "indice": 19,
+    "respuestas": [
+      {
+        "nombre": "Verdadero ",
+        "correcta": false
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "BRANDING Y PACKAGING",
+    "titulo": "Un manual de identidad corporativa debe comunicar la cultura de tu compa\u00f1\u00eda y c\u00f3mo esta se refleja en los productos o servicios que ofreces: ",
+    "indice": 20,
+    "respuestas": [
+      {
+        "nombre": "Un manual de identidad corporativa debe comunicar la cultura de tu compa\u00f1\u00eda y c\u00f3mo esta se refleja en los productos o servicios que ofreces: ",
+        "correcta": false
+      },
+      {
+        "nombre": "Verdadero ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La fase definir de la metodolog\u00eda Design Thinking es: ",
+    "indice": 21,
+    "respuestas": [
+      {
+        "nombre": "La recolecci\u00f3n de informaci\u00f3n en un resumen descriptivo del proyecto ",
+        "correcta": false
+      },
+      {
+        "nombre": "La generaci\u00f3n de alternativas de dise\u00f1o previo al prototipado ",
+        "correcta": false
+      },
+      {
+        "nombre": "La s\u00edntesis de los hallazgos y la comprensi\u00f3n de las necesidades del usuario  ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La fase empatizar es la base de un proyecto centrado en las personas porque: ",
+    "indice": 22,
+    "respuestas": [
+      {
+        "nombre": "Al estar centrado en las personas necesita comprender sus deseos y necesidades ",
+        "correcta": true
+      },
+      {
+        "nombre": "La empat\u00eda promueve un mayor desarrollo de ideas para el proyecto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Los desarrolladores del proyecto se sentir\u00e1n m\u00e1s a gusto conociendo a los usuarios ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "En el desarrollo de proyectos el clusterizado es: ",
+    "indice": 23,
+    "respuestas": [
+      {
+        "nombre": "El agrupamiento de proyectos  ",
+        "correcta": false
+      },
+      {
+        "nombre": "La categorizaci\u00f3n de la informaci\u00f3n ",
+        "correcta": true
+      },
+      {
+        "nombre": "La generaci\u00f3n de fondos econ\u00f3micos ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "Buyer persona es: ",
+    "indice": 24,
+    "respuestas": [
+      {
+        "nombre": "El cliente o usuario ideal ",
+        "correcta": false
+      },
+      {
+        "nombre": "El p\u00fablico objetivo al que se dirige un proyecto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Creaci\u00f3n de un personaje ficticio de consumo  ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "Construir un reto creativo corresponde a la fase: ",
+    "indice": 25,
+    "respuestas": [
+      {
+        "nombre": "Empatizar ",
+        "correcta": false
+      },
+      {
+        "nombre": "Idear ",
+        "correcta": false
+      },
+      {
+        "nombre": "Definir ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "El M\u00e9todo Scamper es: ",
+    "indice": 26,
+    "respuestas": [
+      {
+        "nombre": "Una lista de verificaci\u00f3n basada en verbos de acci\u00f3n ",
+        "correcta": true
+      },
+      {
+        "nombre": "Un proceso de recolecci\u00f3n de informaci\u00f3n ",
+        "correcta": false
+      },
+      {
+        "nombre": "Una herramienta que facilita el prototipado ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "El modo prototipo es: ",
+    "indice": 27,
+    "respuestas": [
+      {
+        "nombre": "Una forma de hacer tangibles las ideas de un proyecto ",
+        "correcta": true
+      },
+      {
+        "nombre": "Se utilizan para dar una muestra real a los usuarios ",
+        "correcta": false
+      },
+      {
+        "nombre": "Una herramienta r\u00e1pida que permite definir el problema ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "Una caracter\u00edstica de un prototipo exitoso es: ",
+    "indice": 28,
+    "respuestas": [
+      {
+        "nombre": "La rapidez con que se realiza ",
+        "correcta": false
+      },
+      {
+        "nombre": "La apariencia realista y detallada ",
+        "correcta": false
+      },
+      {
+        "nombre": "La capacidad de experimentaci\u00f3n e interactividad ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "Para conseguir un proceso efectivo en el desarrollo de proyectos se debe: ",
+    "indice": 29,
+    "respuestas": [
+      {
+        "nombre": "Tener una buena idea de proyecto y suficiente financiamiento ",
+        "correcta": false
+      },
+      {
+        "nombre": "Conocer los m\u00e9todos a utilizar y los objetivos del proyecto ",
+        "correcta": true
+      },
+      {
+        "nombre": "Constante actualizaci\u00f3n del proceso del desarrollo del proyecto ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "Permite fallar de forma veloz y a bajo costo mientras aprendemos del usuario: ",
+    "indice": 30,
+    "respuestas": [
+      {
+        "nombre": "Fase prototipar ",
+        "correcta": true
+      },
+      {
+        "nombre": "Fase idear ",
+        "correcta": false
+      },
+      {
+        "nombre": "Fase evaluar ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "El objetivo de la ideaci\u00f3n es: ",
+    "indice": 31,
+    "respuestas": [
+      {
+        "nombre": "Ayuda a convencer al usuario de la idea del proyecto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Idear la transici\u00f3n entre identificar problemas hasta explorar soluciones  ",
+        "correcta": true
+      },
+      {
+        "nombre": "Desarrollar un punto de vista coherente de la informaci\u00f3n del usuario  ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La fase de un proyecto centrado en el usuario que permite recibir retroalimentaci\u00f3n es: ",
+    "indice": 32,
+    "respuestas": [
+      {
+        "nombre": "Definir ",
+        "correcta": false
+      },
+      {
+        "nombre": "Empatizar ",
+        "correcta": false
+      },
+      {
+        "nombre": "Evaluar ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "En el desarrollo de proyectos centrados en el usuario es importante observar porque: ",
+    "indice": 33,
+    "respuestas": [
+      {
+        "nombre": "Permite desarrollar una comprensi\u00f3n de las necesidades del usuario ",
+        "correcta": true
+      },
+      {
+        "nombre": "Reduce los costos y errores en los procesos del proyecto Es parte de las necesidades del usuario  ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "Uno de los siguientes no es un beneficio de la ideaci\u00f3n: ",
+    "indice": 34,
+    "respuestas": [
+      {
+        "nombre": "Flexibiliza las opciones de innovaci\u00f3n ",
+        "correcta": false
+      },
+      {
+        "nombre": "Permite a los equipos una mayor producci\u00f3n de ideas ",
+        "correcta": false
+      },
+      {
+        "nombre": "Permite ajustar las ideas a la satisfacci\u00f3n del usuario ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La fase evaluar es: ",
+    "indice": 35,
+    "respuestas": [
+      {
+        "nombre": "Ense\u00f1ar el prototipo al usuario ",
+        "correcta": false
+      },
+      {
+        "nombre": "Vender la idea del proyecto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Implica observaci\u00f3n y escucha emp\u00e1tica ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La diferencia entre definir e idear es: ",
+    "indice": 36,
+    "respuestas": [
+      {
+        "nombre": "Definir se refiere a concretar el desaf\u00edo e idear a encontrar soluciones para el desaf\u00edo ",
+        "correcta": true
+      },
+      {
+        "nombre": "Definir se refiere a resumir las necesidades del usuario e idear a enmarcar el desaf\u00edo Definir se refiere a obtener retroalimentaci\u00f3n e idear a conseguir ideas radicales ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La fase que permite obtener la informaci\u00f3n m\u00e1s genuina posible para saber si estamos conectando con las necesidades y deseos del usuario es: ",
+    "indice": 37,
+    "respuestas": [
+      {
+        "nombre": "Empatizar ",
+        "correcta": false
+      },
+      {
+        "nombre": "Definir ",
+        "correcta": false
+      },
+      {
+        "nombre": "Evaluar ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "Los prototipos ayudan en el proceso de pensamiento porque: ",
+    "indice": 38,
+    "respuestas": [
+      {
+        "nombre": "Se hacen productos a bajo costo ",
+        "correcta": false
+      },
+      {
+        "nombre": "Permiten probar y refinar soluciones ",
+        "correcta": true
+      },
+      {
+        "nombre": "Ense\u00f1an m\u00e1s sobre el producto ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La mejor forma de comunicar la visi\u00f3n de un proyecto es: ",
+    "indice": 39,
+    "respuestas": [
+      {
+        "nombre": "Usando elementos visuales ilustrados ",
+        "correcta": true
+      },
+      {
+        "nombre": "Proporcionando informaci\u00f3n detallada del problema ",
+        "correcta": false
+      },
+      {
+        "nombre": "La idea debe ser capaz de venderse por s\u00ed sola ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "Una t\u00e9cnica de la fase evaluar es: ",
+    "indice": 40,
+    "respuestas": [
+      {
+        "nombre": "Brainstorming ",
+        "correcta": false
+      },
+      {
+        "nombre": "M\u00e9todo Scamper ",
+        "correcta": false
+      },
+      {
+        "nombre": "Selecci\u00f3n N. U. F.   ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La fase Definir se refiere a obtener retroalimentaci\u00f3n: ",
+    "indice": 41,
+    "respuestas": [
+      {
+        "nombre": "Verdadero  ",
+        "correcta": false
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La fase Idear permite a los equipos una mayor producci\u00f3n de ideas: ",
+    "indice": 42,
+    "respuestas": [
+      {
+        "nombre": "Verdadero  ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La fase Empatizar permite conocer mejor a la audiencia a la que se dirige el proyecto: Verdadero  ",
+    "indice": 43,
+    "respuestas": [
+      {
+        "nombre": "La fase Empatizar permite conocer mejor a la audiencia a la que se dirige el proyecto: Verdadero  ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "La fase Prototipar permite desarrollar un producto que se aproxime al resultado final, a bajo costo y en menor tiempo: ",
+    "indice": 44,
+    "respuestas": [
+      {
+        "nombre": "Verdadero  ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "El reto creativo de un proyecto se plantea en la fase de Evaluaci\u00f3n: ",
+    "indice": 45,
+    "respuestas": [
+      {
+        "nombre": "Verdadero  ",
+        "correcta": false
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "El pitch de venta permite comunicar de forma concreta un proyecto: ",
+    "indice": 46,
+    "respuestas": [
+      {
+        "nombre": "Verdadero  ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "El focus group es una de las t\u00e9cnicas que pueden utilizarse para la evaluaci\u00f3n de un proyecto: ",
+    "indice": 47,
+    "respuestas": [
+      {
+        "nombre": "Verdadero  ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "En la fase de Evaluaci\u00f3n se desarrollan las ideas para la creaci\u00f3n del proyecto: ",
+    "indice": 48,
+    "respuestas": [
+      {
+        "nombre": "Verdadero  ",
+        "correcta": false
+      },
+      {
+        "nombre": "Falso  ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "El prototipo de un proyecto requiere de una gran inversi\u00f3n para su realizaci\u00f3n: ",
+    "indice": 49,
+    "respuestas": [
+      {
+        "nombre": "Verdadero  ",
+        "correcta": false
+      },
+      {
+        "nombre": "Falso  ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DESARROLLO DE PROYECTOS ",
+    "titulo": "Existen diferentes formas de realizar y presentar un proyecto, esto depender\u00e1 de la finalidad del mismo: ",
+    "indice": 50,
+    "respuestas": [
+      {
+        "nombre": "Verdadero  ",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "El dise\u00f1o industrial se ocupa de:  ",
+    "indice": 51,
+    "respuestas": [
+      {
+        "nombre": "Realizar propuestas visuales para comercializar un producto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Proponer un dise\u00f1o para la creaci\u00f3n de objetos f\u00edsicos ",
+        "correcta": true
+      },
+      {
+        "nombre": "Proponer una idea para complacer las necesidades del p\u00fablico ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Uno de los objetivos del dise\u00f1o industrial es:  ",
+    "indice": 52,
+    "respuestas": [
+      {
+        "nombre": "Identificar una oportunidad de mercado o desarrollo ",
+        "correcta": true
+      },
+      {
+        "nombre": "Vender un producto predise\u00f1ado ",
+        "correcta": false
+      },
+      {
+        "nombre": "Dise\u00f1ar productos de baja calidad ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Una de las siguientes no es una meta cr\u00edtica del dise\u00f1o industrial: ",
+    "indice": 53,
+    "respuestas": [
+      {
+        "nombre": "Facilidad de mantenimiento ",
+        "correcta": false
+      },
+      {
+        "nombre": "Bajos costos ",
+        "correcta": false
+      },
+      {
+        "nombre": "Valores de la marca ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Las interfases humanas del producto deben ser seguras, f\u00e1ciles de usar e intuitivas: ",
+    "indice": 54,
+    "respuestas": [
+      {
+        "nombre": "Utilidad ",
+        "correcta": true
+      },
+      {
+        "nombre": "Aspecto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Comunicaci\u00f3n ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Los dise\u00f1os del producto deben comunicar la filosof\u00eda corporativa del dise\u00f1o: ",
+    "indice": 55,
+    "respuestas": [
+      {
+        "nombre": "Utilidad ",
+        "correcta": false
+      },
+      {
+        "nombre": "Aspecto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Comunicaci\u00f3n ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Una de las caracter\u00edsticas del dise\u00f1o industrial que m\u00e1s lo definen es:  ",
+    "indice": 56,
+    "respuestas": [
+      {
+        "nombre": "El uso de la ergonom\u00eda ",
+        "correcta": true
+      },
+      {
+        "nombre": "La facilidad de mantenimiento Los bajos costos ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Durante el proceso de desarrollo de un nuevo producto se tienen en cuenta: ",
+    "indice": 57,
+    "respuestas": [
+      {
+        "nombre": "Durante el proceso de desarrollo de un nuevo producto se tienen en cuenta: ",
+        "correcta": false
+      },
+      {
+        "nombre": "Los materiales y la maquinaria ",
+        "correcta": true
+      },
+      {
+        "nombre": "La funcionalidad y el precio ",
+        "correcta": false
+      },
+      {
+        "nombre": "La promoci\u00f3n y venta ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Uno de los siguientes no es parte del proceso del dise\u00f1o industrial: ",
+    "indice": 58,
+    "respuestas": [
+      {
+        "nombre": "Definir la visi\u00f3n y la estrategia del producto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Promoci\u00f3n y publicidad del producto",
+        "correcta": true
+      },
+      {
+        "nombre": "An\u00e1lisis del usuario ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Un prototipo es: ",
+    "indice": 59,
+    "respuestas": [
+      {
+        "nombre": "El modelo final del producto dise\u00f1ado ",
+        "correcta": false
+      },
+      {
+        "nombre": "Un modelo experimental de una idea que permite evaluarlo antes de su fabricaci\u00f3n en serie ",
+        "correcta": true
+      },
+      {
+        "nombre": "Un modelo digital del producto que facilita su experimentaci\u00f3n  ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "La fase de prueba y validaci\u00f3n asegura que:  ",
+    "indice": 60,
+    "respuestas": [
+      {
+        "nombre": "El usuario conozca el producto antes de salir al mercado. ",
+        "correcta": false
+      },
+      {
+        "nombre": "El producto tenga un menor valor en el mercado ",
+        "correcta": false
+      },
+      {
+        "nombre": "El concepto de dise\u00f1o funcione como se pretende ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Durante la fase de conceptualizaci\u00f3n los dise\u00f1adores industriales se concentran en: ",
+    "indice": 61,
+    "respuestas": [
+      {
+        "nombre": "Analizar las metas cr\u00edticas del producto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Crear la forma del producto y las interfases del usuario ",
+        "correcta": true
+      },
+      {
+        "nombre": "Realizar versiones f\u00edsicas de cada idea ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "\u00bfCu\u00e1ntas interacciones del usuario se requieren para las funciones del producto?  ",
+    "indice": 62,
+    "respuestas": [
+      {
+        "nombre": "Ninguna  ",
+        "correcta": false
+      },
+      {
+        "nombre": "Interacciones m\u00ednimas que permitan el correcto funcionamiento del producto ",
+        "correcta": true
+      },
+      {
+        "nombre": "Una gran cantidad que permita conocer bien el producto",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Las necesidades del cliente se expresan generalmente en el: ",
+    "indice": 63,
+    "respuestas": [
+      {
+        "nombre": "Lenguaje de los especialistas ",
+        "correcta": false
+      },
+      {
+        "nombre": "Lenguaje del cliente ",
+        "correcta": true
+      },
+      {
+        "nombre": "Prototipo final del producto ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "\u00bfCu\u00e1ndo se establecen las especificaciones: ",
+    "indice": 64,
+    "respuestas": [
+      {
+        "nombre": "Solo al inicio ",
+        "correcta": false
+      },
+      {
+        "nombre": "Solo al final ",
+        "correcta": false
+      },
+      {
+        "nombre": "Durante todo el proceso ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Uno de los siguientes pasos no corresponde a las especificaciones objetivo: ",
+    "indice": 65,
+    "respuestas": [
+      {
+        "nombre": "Realizar el prototipo en f\u00edsico del producto ",
+        "correcta": true
+      },
+      {
+        "nombre": "Elaborar la lista de m\u00e9tricas ",
+        "correcta": false
+      },
+      {
+        "nombre": "Recabar informaci\u00f3n de comparaciones con la competencia ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Un modelo t\u00e9cnico del producto es una herramienta para: ",
+    "indice": 66,
+    "respuestas": [
+      {
+        "nombre": "Realizar un modelado en 3D que permita apreciar el estilo del producto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Predecir los valores de las m\u00e9tricas para un conjunto particular de decisiones de dise\u00f1o ",
+        "correcta": true
+      },
+      {
+        "nombre": "Asegurar que el producto se pueda producir al costo objetivo. ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "El objetivo de un modelo de costo del producto es: ",
+    "indice": 67,
+    "respuestas": [
+      {
+        "nombre": "Realizar un modelado en 3D que permita apreciar el estilo del producto ",
+        "correcta": false
+      },
+      {
+        "nombre": "Predecir los valores de las m\u00e9tricas para un conjunto particular de decisiones de dise\u00f1o ",
+        "correcta": false
+      },
+      {
+        "nombre": "Asegurar que el producto se pueda producir al costo objetivo ",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "Un producto eco amigable o sustentable es:  ",
+    "indice": 68,
+    "respuestas": [
+      {
+        "nombre": "Aquel que ha seguido estrictos procedimientos para disminuir el impacto ambiental  ",
+        "correcta": true
+      },
+      {
+        "nombre": "Aquel que utiliza grandes cantidades de agua para su fabricaci\u00f3n ",
+        "correcta": false
+      },
+      {
+        "nombre": "Aquel que cumple con los est\u00e1ndares de calidad del dise\u00f1o ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "El upcycling o Suprarreciclaje: ",
+    "indice": 69,
+    "respuestas": [
+      {
+        "nombre": "Es lo mismo que el reciclaje ",
+        "correcta": false
+      },
+      {
+        "nombre": "Trata de materiales o elementos que consiguen ser readaptados y / o reutilizados ",
+        "correcta": true
+      },
+      {
+        "nombre": "Utiliza solo materias primas para destacar el color en el dise\u00f1o ",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O INDUSTRIAL  ",
+    "titulo": "El objetivo de la ergonom\u00eda es: ",
+    "indice": 70,
+    "respuestas": [
+      {
+        "nombre": "Adaptar el trabajo a las capacidades y posibilidades del ser humano ",
+        "correcta": true
+      },
+      {
+        "nombre": "Vender productos nuevos a bajo costo en el mercado ",
+        "correcta": false
+      },
+      {
+        "nombre": "Resaltar la parte est\u00e9tica de un producto para llamar la atenci\u00f3n del usuario ",
+        "correcta": false
+      }
+    ]
+  }
+]

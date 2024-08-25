@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#home-container, #simulador-container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: calc(100% - 80px);
+    width: calc(100% - 80px);
+}
+
+.button-container {
+  width: 100%;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.hidden {
+    display: none;
+}
+
+#contador-container {
+    text-align: center;
+}
+
+#button-simulador-container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+}
+
+#button-anterior,
+#button-verificar {
+    margin-right: 0.2rem;
+}
+
+#button-siguiente,
+#button-consultar {
+    margin-left: 0.2rem;
+}
+
+h1, h2 {
+    color: #333;    
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#simulador-container {
+    margin: 0;
+
+}
+
+#button-simulador-container,
+#button-respuestas-container,
+#error-text
+{        
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#button-simulador-container,
+#button-respuestas-container {
+    margin-top: 5px;
+}
+
+#error-text {
+    margin-top: 10px;
+    color: red;
+}
+
+#contador-container {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
