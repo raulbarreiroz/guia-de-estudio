@@ -114,7 +114,7 @@ function agregarPregunta(container, pregunta) {
         } else {
           if (preguntaConRespuesta) {
             //errorText.style.visibility = "visible";
-            disableBtn(btnSiguiente);
+            //disableBtn(btnSiguiente);
           }
         }
       };
@@ -218,7 +218,7 @@ if (btnAnterior) {
       } de ${cantidadDePrguntas} preeguntas`;
 
       enableBtn(btnSiguiente);
-      disableBtn(btnSiguiente);
+      //disableBtn(btnSiguiente);
 
       const simuladorContainer = document.querySelector("#simulador-container");
       const divActual = document.querySelector("#div-actual");
@@ -234,7 +234,7 @@ if (btnAnterior) {
 
 if (btnSiguiente) {
   if (indicePreguntaActual === 0) {
-    disableBtn(btnSiguiente);
+    //disableBtn(btnSiguiente);
   }
   btnSiguiente.addEventListener("click", (e) => {
     if (indicePreguntaActual <= cantidadDePrguntas) {
@@ -260,13 +260,13 @@ if (btnSiguiente) {
         simuladorContainer?.removeChild(divActual);
         agregarPregunta(simuladorContainer, preguntas[indicePreguntaActual]);
 
-        disableBtn(btnSiguiente);
+        //disableBtn(btnSiguiente);
         enableBtn(btnComprobar);
       }
     }
 
     if (indicePreguntaActual === cantidadDePrguntas - 1) {
-      disableBtn(btnSiguiente);
+      //disableBtn(btnSiguiente);
     }
   });
 }
