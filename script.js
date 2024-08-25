@@ -109,13 +109,11 @@ function agregarPregunta(container, pregunta) {
 
       const verificarSeleccionDeCheckBox = (divs) => {
         if (divs.filter((d) => d?.childNodes[0]?.checked).length) {
-          errorText.style.visibility = "hidden";
-          enableBtn(btnVerificar);
+          //errorText.style.visibility = "hidden";
           enableBtn(btnSiguiente);
         } else {
           if (preguntaConRespuesta) {
-            errorText.style.visibility = "visible";
-            disableBtn(btnVerificar);
+            //errorText.style.visibility = "visible";
             disableBtn(btnSiguiente);
           }
         }
@@ -125,9 +123,6 @@ function agregarPregunta(container, pregunta) {
         input.checked = !input.checked;
         verificarSeleccionDeCheckBox(divsList);
       });
-
-      const errorText = document.querySelector("#error-text");
-      const btnVerificar = document.querySelector("#button-verificar");
       verificarSeleccionDeCheckBox;
     });
 
@@ -196,7 +191,6 @@ window.addEventListener("DOMContentLoaded", (event) => {
 
 const btnAnterior = document.querySelector("#button-anterior");
 const btnSiguiente = document.querySelector("#button-siguiente");
-const btnVerificar = document.querySelector("#button-verificar");
 const btnComprobar = document.querySelector("#button-comprobar");
 const contadorContainer = document.querySelector("#contador-container");
 
@@ -266,7 +260,6 @@ if (btnSiguiente) {
         simuladorContainer?.removeChild(divActual);
         agregarPregunta(simuladorContainer, preguntas[indicePreguntaActual]);
 
-        disableBtn(btnVerificar);
         disableBtn(btnSiguiente);
         enableBtn(btnComprobar);
       }
@@ -278,12 +271,33 @@ if (btnSiguiente) {
   });
 }
 
-if (btnVerificar) {
-  if (indicePreguntaActual === 0) {
-    disableBtn(btnVerificar);
-  }
-  btnVerificar.addEventListener("click", (e) => {
-    if (indicePreguntaActual < cantidadDePrguntas) {
+if (btnComprobar) {
+  btnComprobar.addEventListener("click", (e) => {
+    if (respuestaSeleccionada === -1) {
+      const respuestaComprobar = document.querySelector("#respuestaComprobar");
+      respuestaComprobar.style.display = "block";
+      const respuestaCorrectaSolucion = document.querySelector(
+        "#respuestaCorrectaSolucion"
+      );
+      respuestaCorrectaSolucion.style.display = "block";
+
+      //const errorText = document.querySelector("#error-text");
+      //errorText.style.visibility = "hidden";
+
+      let icorrecta = -1;
+      preguntas[indicePreguntaActual]["respuestas"]?.forEach((r, i) => {
+        console.log(r);
+        if (r["correcta"]) {
+          icorrecta = i;
+        }
+      });
+      console.log(icorrecta);
+
+      const divCorrecto = document.querySelector(`#div-${icorrecta}`);
+      divCorrecto.style.backgroundColor = "yellow";
+
+      over = false;
+    } else {
       if (
         preguntas[indicePreguntaActual]["respuestas"][respuestaSeleccionada][
           "correcta"
@@ -313,44 +327,9 @@ if (btnVerificar) {
       }
 
       over = false;
-
-      enableBtnBtn(btnSiguiente);
-      disableBtn(btnComprobar);
-      disableBtn(btnVerificar);
     }
-
-    if (indicePreguntaActual === cantidadDePrguntas - 1) {
-      disableBtn(btnSiguiente);
-    }
-  });
-}
-
-if (btnComprobar) {
-  btnComprobar.addEventListener("click", (e) => {
-    const respuestaComprobar = document.querySelector("#respuestaComprobar");
-    respuestaComprobar.style.display = "block";
-    const respuestaCorrectaSolucion = document.querySelector(
-      "#respuestaCorrectaSolucion"
-    );
-    respuestaCorrectaSolucion.style.display = "block";
-
     enableBtn(btnSiguiente);
     disableBtn(btnComprobar);
-    disableBtn(btnVerificar);
-    const errorText = document.querySelector("#error-text");
-    errorText.style.visibility = "hidden";
-
-    let icorrecta = -1;
-    preguntas[indicePreguntaActual]["respuestas"]?.forEach((r, i) => {
-      console.log(r);
-      if (r["correcta"]) {
-        icorrecta = i;
-      }
-    });
-    console.log(icorrecta);
-
-    const divCorrecto = document.querySelector(`#div-${icorrecta}`);
-    divCorrecto.style.backgroundColor = "#FFFFE0";
   });
 }
 
