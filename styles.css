@@ -81,7 +81,8 @@ button:hover {
 
 #button-simulador-container,
 #button-respuestas-container,
-#error-text
+#error-text,
+#sin-respuesta-text
 {        
     margin: 0;
     padding-top: 0;
@@ -93,7 +94,8 @@ button:hover {
     margin-top: 5px;
 }
 
-#error-text {
+#error-text,
+#sin-respuesta-text {
     margin-top: 10px;
     color: red;
 }

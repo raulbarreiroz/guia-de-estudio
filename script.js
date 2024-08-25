@@ -17,7 +17,7 @@ function shuffleArray(array) {
   return array;
 }
 
-const cantidadDePrguntas = 20;
+let cantidadDePrguntas = 485;
 
 async function getPreguntas(filtro = 1) {
   data = await readFile(filePath);
@@ -31,8 +31,15 @@ async function getPreguntas(filtro = 1) {
 }
 
 let respuestaCorrecta = "";
+let preguntaConRespuesta = false;
 
 function agregarPregunta(container, pregunta) {
+  pregunta["respuestas"]?.forEach((r) => {
+    if (r["correcta"] === true) {
+      preguntaConRespuesta = true;
+    }
+  });
+
   const checkBoxes = [];
   let respuestaCorrectaDiv;
   const divsList = pregunta["respuestas"]?.map((respuesta, i) => {
@@ -106,9 +113,11 @@ function agregarPregunta(container, pregunta) {
           enableBtn(btnVerificar);
           enableBtn(btnSiguiente);
         } else {
-          errorText.style.visibility = "visible";
-          disableBtn(btnVerificar);
-          disableBtn(btnSiguiente);
+          if (preguntaConRespuesta) {
+            errorText.style.visibility = "visible";
+            disableBtn(btnVerificar);
+            disableBtn(btnSiguiente);
+          }
         }
       };
 
@@ -125,6 +134,14 @@ function agregarPregunta(container, pregunta) {
     divPrincipal.style.margin = 0;
     divPrincipal.appendChild(div);
   });
+
+  const sinRespuestaText = document.querySelector("#sin-respuesta-text");
+  if (preguntaConRespuesta) {
+    sinRespuestaText.style.display = "none";
+  } else {
+    sinRespuestaText.style.display = "block";
+    enableBtn(btnSiguiente);
+  }
 
   const respuestaCorrectaText = document.createElement("p");
   respuestaCorrectaText.textContent = "Respuesta correcta";
@@ -267,8 +284,6 @@ if (btnVerificar) {
   }
   btnVerificar.addEventListener("click", (e) => {
     if (indicePreguntaActual < cantidadDePrguntas) {
-      console.log(respuestaSeleccionada);
-      console.log(preguntas[indicePreguntaActual]);
       if (
         preguntas[indicePreguntaActual]["respuestas"][respuestaSeleccionada][
           "correcta"
@@ -281,7 +296,6 @@ if (btnVerificar) {
         const divCorrecto = document.querySelector(
           `#div-${respuestaSeleccionada}`
         );
-        console.log(divCorrecto);
         divCorrecto.style.backgroundColor = "#90EE90";
       } else {
         const respuestaIncorrectaText = document.querySelector(
@@ -323,6 +337,20 @@ if (btnComprobar) {
     enableBtn(btnSiguiente);
     disableBtn(btnComprobar);
     disableBtn(btnVerificar);
+    const errorText = document.querySelector("#error-text");
+    errorText.style.visibility = "hidden";
+
+    let icorrecta = -1;
+    preguntas[indicePreguntaActual]["respuestas"]?.forEach((r, i) => {
+      console.log(r);
+      if (r["correcta"]) {
+        icorrecta = i;
+      }
+    });
+    console.log(icorrecta);
+
+    const divCorrecto = document.querySelector(`#div-${icorrecta}`);
+    divCorrecto.style.backgroundColor = "#FFFFE0";
   });
 }
 
