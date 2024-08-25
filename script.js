@@ -110,9 +110,8 @@ function agregarPregunta(container, pregunta) {
         btnVerificar.style.cursor = "pointer";
 
         btnSiguiente.disabled = false;
-      btnSiguiente.style.backgroundColor = "#007bff";
-      btnSiguiente.style.cursor = "pointer";
-
+        btnSiguiente.style.backgroundColor = "#007bff";
+        btnSiguiente.style.cursor = "pointer";
       } else {
         console.log("no mostrar texto");
         errorText.style.visibility = "visible";
@@ -123,7 +122,6 @@ function agregarPregunta(container, pregunta) {
         btnSiguiente.disabled = true;
         btnSiguiente.style.backgroundColor = "#d3d3d3";
         btnSiguiente.style.cursor = "default";
-      
       }
     });
     input.addEventListener("change", (e) => {
@@ -190,11 +188,21 @@ const btnVerificar = document.querySelector("#button-verificar");
 const btnComprobar = document.querySelector("#button-comprobar");
 const contadorContainer = document.querySelector("#contador-container");
 
+const disableBtn = (btn) => {
+  btn.disabled = true;
+  btn.style.backgroundColor = "#d3d3d3";
+  btn.style.cursor = "default";
+};
+
+const enableBtn = (btn) => {
+  btn.disabled = false;
+  btn.style.backgroundColor = "#007bff";
+  btn.style.cursor = "pointer";
+};
+
 if (btnAnterior) {
   if (indicePreguntaActual === 0) {
-    btnAnterior.disabled = true;
-    btnAnterior.style.backgroundColor = "#d3d3d3";
-    btnAnterior.style.cursor = "default";
+    disableBtn(btnAnterior);
   }
   btnAnterior.addEventListener("click", (e) => {
     if (indicePreguntaActual > 0) {
@@ -202,9 +210,10 @@ if (btnAnterior) {
       contadorContainer.textContent = `${
         indicePreguntaActual + 1
       } de ${cantidadDePrguntas} preeguntas`;
-      btnSiguiente.disabled = false;
-      btnSiguiente.style.backgroundColor = "#007bff";
-      btnSiguiente.style.cursor = "pointer";
+
+      enableBtn(btnSiguiente);
+      disableBtn(btnSiguiente);
+
       const simuladorContainer = document.querySelector("#simulador-container");
       const divActual = document.querySelector("#div-actual");
       simuladorContainer?.removeChild(divActual);
@@ -212,18 +221,14 @@ if (btnAnterior) {
     }
 
     if (indicePreguntaActual === 0) {
-      btnAnterior.disabled = true;
-      btnAnterior.style.backgroundColor = "#d3d3d3";
-      btnAnterior.style.cursor = "default";
+      disableBtn(btnAnterior);
     }
   });
 }
 
 if (btnSiguiente) {
   if (indicePreguntaActual === 0) {
-    btnSiguiente.disabled = true;
-    btnSiguiente.style.backgroundColor = "#d3d3d3";
-    btnSiguiente.style.cursor = "default";
+    disableBtn(btnSiguiente);
   }
   btnSiguiente.addEventListener("click", (e) => {
     if (indicePreguntaActual <= cantidadDePrguntas) {
@@ -251,33 +256,21 @@ if (btnSiguiente) {
         simuladorContainer?.removeChild(divActual);
         agregarPregunta(simuladorContainer, preguntas[indicePreguntaActual]);
 
-        btnVerificar.disabled = true;
-        btnVerificar.style.backgroundColor = "#d3d3d3";
-        btnVerificar.style.cursor = "default";
-
-        btnComprobar.disabled = false;
-        btnComprobar.style.backgroundColor = "#007bff";
-        btnComprobar.style.cursor = "pointer";
-
-        btnSiguiente.disabled = true;
-        btnSiguiente.style.backgroundColor = "#d3d3d3";
-        btnSiguiente.style.cursor = "default";
+        disableBtn(btnVerificar);
+        disableBtn(btnSiguiente);
+        enableBtn(btnComprobar);
       }
     }
 
     if (indicePreguntaActual === cantidadDePrguntas - 1) {
-      btnSiguiente.disabled = true;
-      btnSiguiente.style.backgroundColor = "#d3d3d3";
-      btnSiguiente.style.cursor = "default";
+      disableBtn(btnSiguiente);
     }
   });
 }
 
 if (btnVerificar) {
   if (indicePreguntaActual === 0) {
-    btnVerificar.disabled = true;
-    btnVerificar.style.backgroundColor = "#d3d3d3";
-    btnVerificar.style.cursor = "default";
+    disableBtn(btnVerificar);
   }
   btnVerificar.addEventListener("click", (e) => {
     if (indicePreguntaActual < cantidadDePrguntas) {
@@ -314,23 +307,13 @@ if (btnVerificar) {
 
       over = false;
 
-      btnSiguiente.disabled = false;
-      btnSiguiente.style.backgroundColor = "#007bff";
-      btnSiguiente.style.cursor = "pointer";
-
-      btnComprobar.disabled = true;
-      btnComprobar.style.backgroundColor = "#d3d3d3";
-      btnComprobar.style.cursor = "default";
-
-      btnVerificar.disabled = true;
-      btnVerificar.style.backgroundColor = "#d3d3d3";
-      btnVerificar.style.cursor = "default";
+      enableBtnBtn(btnSiguiente);
+      disableBtn(btnComprobar);
+      disableBtn(btnVerificar);
     }
 
     if (indicePreguntaActual === cantidadDePrguntas - 1) {
-      btnSiguiente.disabled = true;
-      btnSiguiente.style.backgroundColor = "#d3d3d3";
-      btnSiguiente.style.cursor = "default";
+      disableBtn(btnSiguiente);
     }
   });
 }
@@ -344,17 +327,9 @@ if (btnComprobar) {
     );
     respuestaCorrectaSolucion.style.display = "block";
 
-    btnSiguiente.disabled = false;
-    btnSiguiente.style.backgroundColor = "#007bff";
-    btnSiguiente.style.cursor = "pointer";
-
-    btnComprobar.disabled = true;
-    btnComprobar.style.backgroundColor = "#d3d3d3";
-    btnComprobar.style.cursor = "default";
-
-    btnVerificar.disabled = true;
-        btnVerificar.style.backgroundColor = "#d3d3d3";
-        btnVerificar.style.cursor = "default";
+    enableBtn(btnSiguiente);
+    disableBtn(btnComprobar);
+    disableBtn(btnVerificar);
   });
 }
 
