@@ -100,33 +100,28 @@ function agregarPregunta(container, pregunta) {
         respuestaSeleccionada = -1;
       }
 
+      const verificarSeleccionDeCheckBox = (divs) => {
+        if (divs.filter((d) => d?.childNodes[0]?.checked).length) {
+          errorText.style.visibility = "hidden";
+          enableBtn(btnVerificar);
+          enableBtn(btnSiguiente);
+        } else {
+          errorText.style.visibility = "visible";
+          disableBtn(btnVerificar);
+          disableBtn(btnSiguiente);
+        }
+      };
+
+      input.addEventListener("change", (e) => {
+        input.checked = !input.checked;
+        verificarSeleccionDeCheckBox(divsList);
+      });
+
       const errorText = document.querySelector("#error-text");
       const btnVerificar = document.querySelector("#button-verificar");
-      if (divsList.filter((d) => d?.childNodes[0]?.checked).length) {
-        console.log("mostrar texto");
-        errorText.style.visibility = "hidden";
-        btnVerificar.disabled = false;
-        btnVerificar.style.backgroundColor = "#007bff";
-        btnVerificar.style.cursor = "pointer";
-
-        btnSiguiente.disabled = false;
-        btnSiguiente.style.backgroundColor = "#007bff";
-        btnSiguiente.style.cursor = "pointer";
-      } else {
-        console.log("no mostrar texto");
-        errorText.style.visibility = "visible";
-        btnVerificar.disabled = true;
-        btnVerificar.style.backgroundColor = "#d3d3d3";
-        btnVerificar.style.cursor = "default";
-
-        btnSiguiente.disabled = true;
-        btnSiguiente.style.backgroundColor = "#d3d3d3";
-        btnSiguiente.style.cursor = "default";
-      }
+      verificarSeleccionDeCheckBox;
     });
-    input.addEventListener("change", (e) => {
-      input.checked = !input.checked;
-    });
+
     divPrincipal.style.margin = 0;
     divPrincipal.appendChild(div);
   });
@@ -246,9 +241,7 @@ if (btnSiguiente) {
         simuladorContainer.classList.add("hidden");
         homeContainer.classList.remove("hidden");
       } else {
-        btnAnterior.disabled = false;
-        btnAnterior.style.backgroundColor = "#007bff";
-        btnAnterior.style.cursor = "pointer";
+        enableBtn(btnAnterior);
         const simuladorContainer = document.querySelector(
           "#simulador-container"
         );
