@@ -1507,9 +1507,13 @@
   },
   {
     "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "Es una herramienta que permite planificar y trabajar de forma colaborativa  Hootsuite ",
+    "titulo": "Es una herramienta que permite planificar y trabajar de forma colaborativa",
     "indice": 86,
     "respuestas": [
+      {
+        "nombre": "Hootsuite",
+        "correcta": false
+      },
       {
         "nombre": "Trello",
         "correcta": true
@@ -5973,11 +5977,14 @@
       {
         "nombre": "Ninguna de las anteriores",
         "correcta": false
-      },
-      {
-        "nombre": "\u00bfQu\u00e9 es el marketing directo?",
-        "correcta": false
-      },
+      }
+    ]
+  },
+  {
+    "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
+    "titulo": "\u00bfQu\u00e9 es el marketing directo? ",
+    "indice": 323,
+    "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en enviar publicidad por correo postal o correo electr\u00f3nico directamente a los clientes",
         "correcta": true
@@ -5999,7 +6006,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la marca personal? ",
-    "indice": 323,
+    "indice": 324,
     "respuestas": [
       {
         "nombre": "La marca que representa a una empresa",
@@ -6022,7 +6029,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de permiso? ",
-    "indice": 324,
+    "indice": 325,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de productos nuevos",
@@ -6045,7 +6052,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de contenidos? ",
-    "indice": 325,
+    "indice": 326,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
@@ -6068,7 +6075,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el posicionamiento en marketing? ",
-    "indice": 326,
+    "indice": 327,
     "respuestas": [
       {
         "nombre": "La forma en que un producto o servicio se coloca en una tienda",
@@ -6091,7 +6098,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing mix? ",
-    "indice": 327,
+    "indice": 328,
     "respuestas": [
       {
         "nombre": "El conjunto de elementos que componen la estrategia de marketing de una empresa",
@@ -6114,7 +6121,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el an\u00e1lisis DAFO? ",
-    "indice": 328,
+    "indice": 329,
     "respuestas": [
       {
         "nombre": "Un an\u00e1lisis que permite identificar las debilidades, amenazas, fortalezas y oportunidades de una empresa",
@@ -6137,7 +6144,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la publicidad nativa? ",
-    "indice": 329,
+    "indice": 330,
     "respuestas": [
       {
         "nombre": "Un tipo de publicidad que se utiliza en televisi\u00f3n",
@@ -6160,7 +6167,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de guerrilla? ",
-    "indice": 330,
+    "indice": 331,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
@@ -6183,7 +6190,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la publicidad comparativa? ",
-    "indice": 331,
+    "indice": 332,
     "respuestas": [
       {
         "nombre": "Un tipo de publicidad que compara los productos de dos o m\u00e1s empresas directamente",
@@ -6206,7 +6213,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing directo? ",
-    "indice": 332,
+    "indice": 333,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
@@ -6229,7 +6236,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de afiliaci\u00f3n? ",
-    "indice": 333,
+    "indice": 334,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
@@ -6252,7 +6259,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el copywriting?",
-    "indice": 334,
+    "indice": 335,
     "respuestas": [
       {
         "nombre": "La t\u00e9cnica de escribir copias publicitarias efectivas",
@@ -6275,7 +6282,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de experiencia? ",
-    "indice": 335,
+    "indice": 336,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
@@ -6298,7 +6305,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la segmentaci\u00f3n de mercado? ",
-    "indice": 336,
+    "indice": 337,
     "respuestas": [
       {
         "nombre": "El proceso de dividir el mercado en grupos de consumidores con necesidades y deseos similares",
@@ -6321,7 +6328,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la tasa de conversi\u00f3n? ",
-    "indice": 337,
+    "indice": 338,
     "respuestas": [
       {
         "nombre": "La cantidad de personas que realizan una acci\u00f3n deseada, como hacer una compra o suscribirse a una lista de correo electr\u00f3nico, en relaci\u00f3n con el n\u00famero de visitantes de una p\u00e1gina web",
@@ -6344,7 +6351,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el remarketing? ",
-    "indice": 338,
+    "indice": 339,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en llegar directamente al consumidor mediante correo, correo electr\u00f3nico, tel\u00e9fono u otros medios",
@@ -6367,7 +6374,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el CTR? ",
-    "indice": 339,
+    "indice": 340,
     "respuestas": [
       {
         "nombre": "La cantidad de personas que visitan una p\u00e1gina web",
@@ -6390,7 +6397,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la infograf\u00eda editorial? ",
-    "indice": 340,
+    "indice": 341,
     "respuestas": [
       {
         "nombre": "Una imagen est\u00e1tica.",
@@ -6409,7 +6416,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 funci\u00f3n cumple la infograf\u00eda en el periodismo gr\u00e1fico? ",
-    "indice": 341,
+    "indice": 342,
     "respuestas": [
       {
         "nombre": "Hacer m\u00e1s atractiva la p\u00e1gina.",
@@ -6428,7 +6435,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la investigaci\u00f3n en el dise\u00f1o?",
-    "indice": 342,
+    "indice": 343,
     "respuestas": [
       {
         "nombre": "Una t\u00e9cnica para dise\u00f1ar sin una estrategia clara.",
@@ -6447,7 +6454,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el periodismo visual? ",
-    "indice": 343,
+    "indice": 344,
     "respuestas": [
       {
         "nombre": "La pr\u00e1ctica de presentar informaci\u00f3n a trav\u00e9s de im\u00e1genes y gr\u00e1ficos.",
@@ -6466,7 +6473,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el dise\u00f1o de textos? ",
-    "indice": 344,
+    "indice": 345,
     "respuestas": [
       {
         "nombre": "La elecci\u00f3n de la tipograf\u00eda para un texto.",
@@ -6485,7 +6492,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfCu\u00e1l es el prop\u00f3sito del dise\u00f1o de p\u00e1rrafos? ",
-    "indice": 345,
+    "indice": 346,
     "respuestas": [
       {
         "nombre": "Hacer que el texto se vea m\u00e1s largo.",
@@ -6504,7 +6511,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la iconograf\u00eda? ",
-    "indice": 346,
+    "indice": 347,
     "respuestas": [
       {
         "nombre": "El estudio de las formas de comunicaci\u00f3n a trav\u00e9s de im\u00e1genes.",
@@ -6523,7 +6530,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la se\u00f1al\u00e9tica? ",
-    "indice": 347,
+    "indice": 348,
     "respuestas": [
       {
         "nombre": "Un dise\u00f1o utilizado para se\u00f1alar lugares de inter\u00e9s.",
@@ -6542,7 +6549,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfCu\u00e1l es la funci\u00f3n del dise\u00f1o de mapas? ",
-    "indice": 348,
+    "indice": 349,
     "respuestas": [
       {
         "nombre": "Hacer que la p\u00e1gina se vea m\u00e1s interesante.",
@@ -6561,7 +6568,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el uso de la tipograf\u00eda? ",
-    "indice": 349,
+    "indice": 350,
     "respuestas": [
       {
         "nombre": "La elecci\u00f3n de diferentes estilos de letra para hacer m\u00e1s atractivo un dise\u00f1o.",
@@ -6580,7 +6587,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el espacio en blanco en el dise\u00f1o? ",
-    "indice": 350,
+    "indice": 351,
     "respuestas": [
       {
         "nombre": "El espacio que se deja sin utilizar en un dise\u00f1o.",
@@ -6599,7 +6606,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfCu\u00e1l es la funci\u00f3n de la composici\u00f3n visual? ",
-    "indice": 351,
+    "indice": 352,
     "respuestas": [
       {
         "nombre": "Organizar los elementos en un dise\u00f1o para que se vea m\u00e1s atractivo.",
@@ -6618,7 +6625,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el contraste en un dise\u00f1o? ",
-    "indice": 352,
+    "indice": 353,
     "respuestas": [
       {
         "nombre": "La similitud de elementos en un dise\u00f1o.",
@@ -6637,7 +6644,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfCu\u00e1l es una funci\u00f3n del color en la comunicaci\u00f3n visual? ",
-    "indice": 353,
+    "indice": 354,
     "respuestas": [
       {
         "nombre": "Hacer que el dise\u00f1o se vea m\u00e1s atractivo.",
@@ -6656,7 +6663,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": " \u00bfQu\u00e9 es un dise\u00f1o equilibrado de gr\u00e1ficos? ",
-    "indice": 354,
+    "indice": 355,
     "respuestas": [
       {
         "nombre": "Un dise\u00f1o donde todos los elementos son iguales.",
@@ -6675,7 +6682,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 tipo de gr\u00e1fico es el m\u00e1s adecuado para mostrar cambios a lo largo del tiempo? ",
-    "indice": 355,
+    "indice": 356,
     "respuestas": [
       {
         "nombre": "Gr\u00e1fico de barras.",
@@ -6694,7 +6701,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 tipo de gr\u00e1fico es el m\u00e1s adecuado para mostrar la proporci\u00f3n de diferentes elementos en un todo? ",
-    "indice": 356,
+    "indice": 357,
     "respuestas": [
       {
         "nombre": "Gr\u00e1fico de barras",
@@ -6713,7 +6720,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la regla del tercio en el dise\u00f1o gr\u00e1fico? ",
-    "indice": 357,
+    "indice": 358,
     "respuestas": [
       {
         "nombre": "Una gu\u00eda que ayuda a equilibrar los elementos visuales en el dise\u00f1o.",
@@ -6732,7 +6739,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el espacio negativo en el dise\u00f1o gr\u00e1fico? ",
-    "indice": 358,
+    "indice": 359,
     "respuestas": [
       {
         "nombre": "El espacio que rodea los elementos visuales en un dise\u00f1o.",
@@ -6751,7 +6758,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfCu\u00e1l es una funci\u00f3n de la ilustraci\u00f3n en la infograf\u00eda editorial? ",
-    "indice": 359,
+    "indice": 360,
     "respuestas": [
       {
         "nombre": "Hacer que el dise\u00f1o se vea m\u00e1s atractivo.",
@@ -6770,7 +6777,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la simetr\u00eda en el dise\u00f1o gr\u00e1fico? ",
-    "indice": 360,
+    "indice": 361,
     "respuestas": [
       {
         "nombre": "Un dise\u00f1o donde todos los elementos son iguales.",
@@ -6789,7 +6796,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL \u2013 COLOR EN EL DISE\u00d1O DE INFOGRAF\u00cdAS",
     "titulo": "\u00bfQu\u00e9 color se asocia com\u00fanmente con la tranquilidad y la calma? ",
-    "indice": 361,
+    "indice": 362,
     "respuestas": [
       {
         "nombre": "Rojo",
@@ -6808,7 +6815,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL \u2013 COLOR EN EL DISE\u00d1O DE INFOGRAF\u00cdAS",
     "titulo": "\u00bfQu\u00e9 color se utiliza a menudo para indicar peligro o advertencia? ",
-    "indice": 362,
+    "indice": 363,
     "respuestas": [
       {
         "nombre": "Verde",
@@ -6827,7 +6834,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL \u2013 COLOR EN EL DISE\u00d1O DE INFOGRAF\u00cdAS",
     "titulo": "\u00bfQu\u00e9 color se asocia com\u00fanmente con la naturaleza y la ecolog\u00eda? ",
-    "indice": 363,
+    "indice": 364,
     "respuestas": [
       {
         "nombre": "Marr\u00f3n",
@@ -6846,7 +6853,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL \u2013 COLOR EN EL DISE\u00d1O DE INFOGRAF\u00cdAS",
     "titulo": "\u00bfQu\u00e9 color se utiliza a menudo para representar la inocencia y la pureza? ",
-    "indice": 364,
+    "indice": 365,
     "respuestas": [
       {
         "nombre": "Blanco",
@@ -6865,7 +6872,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL \u2013 COLOR EN EL DISE\u00d1O DE INFOGRAF\u00cdAS",
     "titulo": "\u00bfQu\u00e9 color se utiliza a menudo para representar la riqueza y el lujo? ",
-    "indice": 365,
+    "indice": 366,
     "respuestas": [
       {
         "nombre": "Dorado",
@@ -6884,7 +6891,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL \u2013 COLOR EN EL DISE\u00d1O DE INFOGRAF\u00cdAS",
     "titulo": "\u00bfQu\u00e9 color se utiliza a menudo para representar la creatividad y la originalidad? Morado ",
-    "indice": 366,
+    "indice": 367,
     "respuestas": [
       {
         "nombre": "Amarillo",
@@ -6899,7 +6906,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL \u2013 COLOR EN EL DISE\u00d1O DE INFOGRAF\u00cdAS",
     "titulo": "\u00bfQu\u00e9 color se utiliza a menudo para representar la energ\u00eda y la pasi\u00f3n? ",
-    "indice": 367,
+    "indice": 368,
     "respuestas": [
       {
         "nombre": "Azul",
@@ -6918,7 +6925,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL \u2013 COLOR EN EL DISE\u00d1O DE INFOGRAF\u00cdAS",
     "titulo": "\u00bfQu\u00e9 color se utiliza a menudo para representar la confianza y la seguridad? ",
-    "indice": 368,
+    "indice": 369,
     "respuestas": [
       {
         "nombre": "Gris",
@@ -6937,7 +6944,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Cuantos frames por segundo tiene el cine ",
-    "indice": 369,
+    "indice": 370,
     "respuestas": [
       {
         "nombre": "30",
@@ -6956,7 +6963,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Cuantos frames por segundo tiene el formato NTSC ",
-    "indice": 370,
+    "indice": 371,
     "respuestas": [
       {
         "nombre": "30",
@@ -6975,7 +6982,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Cual es el tama\u00f1o de el formato FULL HD ",
-    "indice": 371,
+    "indice": 372,
     "respuestas": [
       {
         "nombre": "720x480",
@@ -6994,7 +7001,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Que significa la \u201ci\u201d dentro del formato 1080i ",
-    "indice": 372,
+    "indice": 373,
     "respuestas": [
       {
         "nombre": "interactive",
@@ -7013,7 +7020,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Qu\u00e9 es toma ",
-    "indice": 373,
+    "indice": 374,
     "respuestas": [
       {
         "nombre": "Es el conjunto de escenas que cuentan una parte de la historia",
@@ -7032,7 +7039,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Qu\u00e9 es escena ",
-    "indice": 374,
+    "indice": 375,
     "respuestas": [
       {
         "nombre": "una parte del discurso audiovisual que se desarrolla en un solo escenario y que por s\u00ed misma no tiene sentido dram\u00e1tico completo",
@@ -7051,7 +7058,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Qu\u00e9 es plano ",
-    "indice": 375,
+    "indice": 376,
     "respuestas": [
       {
         "nombre": "Es el conjunto de escenas que cuentan una parte de la historia",
@@ -7070,7 +7077,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Cu\u00e1les son planos ",
-    "indice": 376,
+    "indice": 377,
     "respuestas": [
       {
         "nombre": "Paneo, Tilt, dolly",
@@ -7089,7 +7096,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Cuales son movimientos de c\u00e1mara ",
-    "indice": 377,
+    "indice": 378,
     "respuestas": [
       {
         "nombre": "Americano, Entresacado , Adicional",
@@ -7108,7 +7115,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Que es secuencia ",
-    "indice": 378,
+    "indice": 379,
     "respuestas": [
       {
         "nombre": "Es el conjunto de escenas que cuentan una parte de la historia",
@@ -7127,7 +7134,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Que es plano secuencia ",
-    "indice": 379,
+    "indice": 380,
     "respuestas": [
       {
         "nombre": "una parte del discurso audiovisual que se desarrolla en un solo escenario y que por s\u00ed misma no tiene sentido dram\u00e1tico completo",
@@ -7146,7 +7153,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Que es narraci\u00f3n lineal ",
-    "indice": 380,
+    "indice": 381,
     "respuestas": [
       {
         "nombre": "cuando el tiempo de la acci\u00f3n es mayor que el tiempo de la narraci\u00f3n",
@@ -7165,7 +7172,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Que es resumen ",
-    "indice": 381,
+    "indice": 382,
     "respuestas": [
       {
         "nombre": "cuando el tiempo de la acci\u00f3n es mayor que el tiempo de la narraci\u00f3n",
@@ -7184,7 +7191,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Que es elipsis ",
-    "indice": 382,
+    "indice": 383,
     "respuestas": [
       {
         "nombre": "cuando el tiempo de la acci\u00f3n es mayor que el tiempo de la narraci\u00f3n",
@@ -7203,7 +7210,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Con que tecla se usa el RAZOR TOOL en Premiere ",
-    "indice": 383,
+    "indice": 384,
     "respuestas": [
       {
         "nombre": "d",
@@ -7222,7 +7229,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Que pasa cuando apreto CTR+D seleccionando una toma o audio ",
-    "indice": 384,
+    "indice": 385,
     "respuestas": [
       {
         "nombre": "Se duplica el track",
@@ -7241,7 +7248,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Cual forma de exportar es mas r\u00e1pida ",
-    "indice": 385,
+    "indice": 386,
     "respuestas": [
       {
         "nombre": "Lossless",
@@ -7260,7 +7267,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Como hago slow motion b\u00e1sico ",
-    "indice": 386,
+    "indice": 387,
     "respuestas": [
       {
         "nombre": "Click derecho / Speed - Duration",
@@ -7279,7 +7286,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Que es la colilla de un reportaje ",
-    "indice": 387,
+    "indice": 388,
     "respuestas": [
       {
         "nombre": "Es la entrevista de alguien respondiendo a la c\u00e1mara",
@@ -7298,7 +7305,7 @@
   {
     "seccion": "TECNICAS EDICI\u00d3N 1 ",
     "titulo": "Que son bytes en un reportaje ",
-    "indice": 388,
+    "indice": 389,
     "respuestas": [
       {
         "nombre": "Es la entrevista de alguien respondiendo a la c\u00e1mara",
@@ -7317,7 +7324,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "La redacci\u00f3n publicitaria es ",
-    "indice": 389,
+    "indice": 390,
     "respuestas": [
       {
         "nombre": "La capacidad de escritura creativa, cuidada y correcta aplicada al \u00e1mbito publicitario.",
@@ -7336,7 +7343,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "\u00bfCu\u00e1les son las fases de la redacci\u00f3n publicitarias? ",
-    "indice": 390,
+    "indice": 391,
     "respuestas": [
       {
         "nombre": "Invenci\u00f3n, disposici\u00f3n, elocuci\u00f3n. Respuesta correcta",
@@ -7355,7 +7362,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Fase inicial de la elaboraci\u00f3n, el orador ten\u00eda que encontrar las ideas que iba a desplegar despu\u00e9s a lo largo de su alocuci\u00f3n, y estas se apoyaban en una serie de contenidos previos, ya existentes y comunes a toda la colectividad, denominados topos o lugares comunes. Esta definici\u00f3n es de la fase de  ",
-    "indice": 391,
+    "indice": 392,
     "respuestas": [
       {
         "nombre": "Invenci\u00f3n",
@@ -7374,7 +7381,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "________________consist\u00eda en organizar en el texto las ideas, repartirlas en los p\u00e1rrafos y establecer entre estos las necesarias relaciones l\u00f3gicas y textuales, de manera que el escrito final resultara estructurado de un modo adecuado a su finalidad. ",
-    "indice": 392,
+    "indice": 393,
     "respuestas": [
       {
         "nombre": "Elocuci\u00f3n",
@@ -7393,7 +7400,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En la _________________se escog\u00edan las palabras m\u00e1s adecuadas. Es en este momento en el que era necesario cuidar no solo la precisi\u00f3n y la variedad l\u00e9xica, sino, tambi\u00e9n, la correcci\u00f3n gramatical y ortogr\u00e1fica. ",
-    "indice": 393,
+    "indice": 394,
     "respuestas": [
       {
         "nombre": "Invenci\u00f3n",
@@ -7412,7 +7419,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Las caracter\u00edsticas de la redacci\u00f3n publicitaria son  ",
-    "indice": 394,
+    "indice": 395,
     "respuestas": [
       {
         "nombre": "Correcci\u00f3n y adaptaci\u00f3n",
@@ -7431,7 +7438,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "____________ se consigue cuando se cuida la ortograf\u00eda, la gram\u00e1tica (morfolog\u00eda y sintaxis) y el l\u00e9xico del enunciado publicitario. ",
-    "indice": 395,
+    "indice": 396,
     "respuestas": [
       {
         "nombre": "Adaptaci\u00f3n",
@@ -7450,7 +7457,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "La ________________deriva de acomodar el texto a la campa\u00f1a que se quiere realizar y que concierne, sobre todo, al estilo. No es lo mismo, en este sentido, redactar un texto para campa\u00f1a publicitaria de un diccionario de la Real Academia Espa\u00f1ola que escribirlo para otra en a que se da a conocer una marca de jeans para j\u00f3venes. ",
-    "indice": 396,
+    "indice": 397,
     "respuestas": [
       {
         "nombre": "Correcci\u00f3n",
@@ -7469,7 +7476,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En la publicidad la ________________ es fundamental, puesto que, si no se logra alcanzar la persuasi\u00f3n, y por consiguiente la venta; la campa\u00f1a habr\u00e1 resultado infructuosa. ",
-    "indice": 397,
+    "indice": 398,
     "respuestas": [
       {
         "nombre": "Correcci\u00f3n",
@@ -7488,7 +7495,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Actitudes del Proceso Creativo seg\u00fan Bassat  ",
-    "indice": 398,
+    "indice": 399,
     "respuestas": [
       {
         "nombre": "Definici\u00f3n del problema, An\u00e1lisis de las causas, Planteamiento de las posibles soluciones, Opci\u00f3n para la mejor soluci\u00f3n",
@@ -7507,7 +7514,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En las FASES DEL PROCESO CREATIVO si hablamos de PREPARACI\u00d3N nos estamos refiriendo a  ",
-    "indice": 399,
+    "indice": 400,
     "respuestas": [
       {
         "nombre": "Recopilaci\u00f3n de datos",
@@ -7526,7 +7533,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En las FASES DEL PROCESO CREATIVO si hablamos de INCUBACI\u00d3N nos estamos refiriendo a  ",
-    "indice": 400,
+    "indice": 401,
     "respuestas": [
       {
         "nombre": "Recopilaci\u00f3n de datos.",
@@ -7545,7 +7552,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En las FASES DEL PROCESO CREATIVO si hablamos de ELABORACI\u00d3N nos estamos refiriendo a  ",
-    "indice": 401,
+    "indice": 402,
     "respuestas": [
       {
         "nombre": "Recopilaci\u00f3n de datos.",
@@ -7564,7 +7571,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En las FASES DEL PROCESO CREATIVO si hablamos de EVALUACI\u00d3N nos estamos refiriendo a  ",
-    "indice": 402,
+    "indice": 403,
     "respuestas": [
       {
         "nombre": "Recopilaci\u00f3n de datos.",
@@ -7583,7 +7590,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Entre las funciones que se le asignan al redactor creativo, tenemos  ",
-    "indice": 403,
+    "indice": 404,
     "respuestas": [
       {
         "nombre": "funci\u00f3n estrat\u00e9gica",
@@ -7602,7 +7609,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Entre las funciones que se le asignan al redactor creativo, tenemos  ",
-    "indice": 404,
+    "indice": 405,
     "respuestas": [
       {
         "nombre": "funci\u00f3n redaccional",
@@ -7621,7 +7628,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Las figuras retoricas utilizadas en la publicidad se clasifican en  ",
-    "indice": 405,
+    "indice": 406,
     "respuestas": [
       {
         "nombre": "Sem\u00e1nticas y morfol\u00f3gicas",
@@ -7640,7 +7647,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Las tipolog\u00edas textuales se clasifican en  ",
-    "indice": 406,
+    "indice": 407,
     "respuestas": [
       {
         "nombre": "Narrativas y descriptivas",
@@ -7659,7 +7666,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Para escribir en redes sociales se debe tomar en cuenta estos tres elementos  ",
-    "indice": 407,
+    "indice": 408,
     "respuestas": [
       {
         "nombre": "Tono, persuasi\u00f3n y brevedad",
@@ -7678,7 +7685,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Los tipos de brief que existen son  ",
-    "indice": 408,
+    "indice": 409,
     "respuestas": [
       {
         "nombre": "El creativo y de marketing",
@@ -7697,7 +7704,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Los Pilares de Contenido son los siguientes  ",
-    "indice": 409,
+    "indice": 410,
     "respuestas": [
       {
         "nombre": "Contenido de Valor y Promocional",
@@ -7716,7 +7723,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Cuando nos referimos a contenido relacionado a tips, consejos o tutoriales de c\u00f3mo utilizar de mejor manera el producto o servicio, estamos hablando de  ",
-    "indice": 410,
+    "indice": 411,
     "respuestas": [
       {
         "nombre": "Contenido de Valor",
@@ -7735,7 +7742,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Tipos de texto aplicados a la Publicidad son  ",
-    "indice": 411,
+    "indice": 412,
     "respuestas": [
       {
         "nombre": "Narrativos, descriptivos, expositivos y argumentativos",
@@ -7754,7 +7761,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "El texto narrativo se refiere  ",
-    "indice": 412,
+    "indice": 413,
     "respuestas": [
       {
         "nombre": "Persuadir a trav\u00e9s de historias",
@@ -7773,7 +7780,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Tipos de T\u00edtulo Publicitario son  ",
-    "indice": 413,
+    "indice": 414,
     "respuestas": [
       {
         "nombre": "Informativos, selectivos, de intriga e imperativos",
@@ -7792,7 +7799,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Juan Rey considera (1999) que las caracter\u00edsticas del eslogan son  ",
-    "indice": 414,
+    "indice": 415,
     "respuestas": [
       {
         "nombre": "Breve, simple, conciso, brillante, f\u00e1cil de recordar",
@@ -7811,7 +7818,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Las Figuras Ret\u00f3ricas en la Publicidad se clasifican en  ",
-    "indice": 415,
+    "indice": 416,
     "respuestas": [
       {
         "nombre": "Fon\u00e9ticas, morfol\u00f3gicas, sint\u00e1cticas, sem\u00e1nticas y l\u00f3gicas",
@@ -7830,7 +7837,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Clara, cristalina, refrescante\u2026 \u00a1Vamos adelante! 7Up. Es un ejemplo de_ ",
-    "indice": 416,
+    "indice": 417,
     "respuestas": [
       {
         "nombre": "Rima",
@@ -7849,7 +7856,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "La cola m\u00e1s grande del mercado, grande en sabor, grande en tama\u00f1o. BIG COLA. Es un ejemplo de  ",
-    "indice": 417,
+    "indice": 418,
     "respuestas": [
       {
         "nombre": "Hip\u00e9rbole",
@@ -7868,7 +7875,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "La redacci\u00f3n publicitaria en redes sociales requiere de  ",
-    "indice": 418,
+    "indice": 419,
     "respuestas": [
       {
         "nombre": "Hacer que tu copy trabaje con im\u00e1genes.",
@@ -7887,7 +7894,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es el branding? ",
-    "indice": 419,
+    "indice": 420,
     "respuestas": [
       {
         "nombre": "Es el proceso de creaci\u00f3n de un logotipo para una empresa.",
@@ -7906,7 +7913,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1les son los diferentes tipos de logos? ",
-    "indice": 420,
+    "indice": 421,
     "respuestas": [
       {
         "nombre": "Logotipo, imagotipo y slogan.",
@@ -7925,7 +7932,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un imagotipo? ",
-    "indice": 421,
+    "indice": 422,
     "respuestas": [
       {
         "nombre": "Es una imagen que representa un concepto abstracto.",
@@ -7944,7 +7951,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfC\u00f3mo se construye la identidad visual de una marca? ",
-    "indice": 422,
+    "indice": 423,
     "respuestas": [
       {
         "nombre": "Definiendo el p\u00fablico objetivo y la competencia.",
@@ -7963,7 +7970,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 contiene gr\u00e1ficamente una marca compuesta? ",
-    "indice": 423,
+    "indice": 424,
     "respuestas": [
       {
         "nombre": "Un logotipo y un eslogan.",
@@ -7982,7 +7989,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es la secuencia de la cognici\u00f3n? ",
-    "indice": 424,
+    "indice": 425,
     "respuestas": [
       {
         "nombre": "El proceso mediante el cual se adquiere conocimiento.",
@@ -8001,7 +8008,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1les son los diferentes tipos de empaque? ",
-    "indice": 425,
+    "indice": 426,
     "respuestas": [
       {
         "nombre": "Primario, secundario y terciario.",
@@ -8020,7 +8027,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1l es la diferencia entre empaque y envase? ",
-    "indice": 426,
+    "indice": 427,
     "respuestas": [
       {
         "nombre": "No hay diferencia, ambos t\u00e9rminos se refieren al mismo concepto.",
@@ -8039,7 +8046,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un troquel? ",
-    "indice": 427,
+    "indice": 428,
     "respuestas": [
       {
         "nombre": "Una herramienta para cortar papel y cart\u00f3n con formas espec\u00edficas.",
@@ -8058,7 +8065,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es impresi\u00f3n offset? ",
-    "indice": 428,
+    "indice": 429,
     "respuestas": [
       {
         "nombre": "Una t\u00e9cnica de impresi\u00f3n en relieve.",
@@ -8077,7 +8084,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1l es el tipo de impresi\u00f3n para pl\u00e1sticos? ",
-    "indice": 429,
+    "indice": 430,
     "respuestas": [
       {
         "nombre": "Serigraf\u00eda.",
@@ -8096,7 +8103,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfPara qu\u00e9 sirve un mood board? ",
-    "indice": 430,
+    "indice": 431,
     "respuestas": [
       {
         "nombre": "Para planificar una estrategia de marketing.",
@@ -8115,7 +8122,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un Key Visual? ",
-    "indice": 431,
+    "indice": 432,
     "respuestas": [
       {
         "nombre": "Es el elemento visual principal de una campa\u00f1a publicitaria.",
@@ -8134,7 +8141,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es una campa\u00f1a publicitaria? ",
-    "indice": 432,
+    "indice": 433,
     "respuestas": [
       {
         "nombre": "Un conjunto de anuncios publicitarios que se difunden en diferentes medios para promocionar un producto o servicio durante un periodo determinado.",
@@ -8153,7 +8160,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1ntas piezas debe contener una campa\u00f1a publicitaria? ",
-    "indice": 433,
+    "indice": 434,
     "respuestas": [
       {
         "nombre": "Depende del presupuesto de la empresa.",
@@ -8172,7 +8179,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es una estrategia de campa\u00f1a? ",
-    "indice": 434,
+    "indice": 435,
     "respuestas": [
       {
         "nombre": "Es el conjunto de acciones y decisiones que se planifican para alcanzar los objetivos de una campa\u00f1a publicitaria.",
@@ -8191,7 +8198,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfC\u00f3mo se hace un copy creativo? ",
-    "indice": 435,
+    "indice": 436,
     "respuestas": [
       {
         "nombre": "Se recopila informaci\u00f3n del cliente y se escribe un texto persuasivo que capte la atenci\u00f3n del p\u00fablico objetivo.",
@@ -8210,7 +8217,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1l es la diferencia entre slogan y copy? ",
-    "indice": 436,
+    "indice": 437,
     "respuestas": [
       {
         "nombre": "El slogan es un texto corto que resume la idea principal de una campa\u00f1a publicitaria, mientras que el copy es un texto m\u00e1s extenso que busca persuadir al p\u00fablico objetivo.",
@@ -8229,7 +8236,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un insight y para qu\u00e9 sirve? ",
-    "indice": 437,
+    "indice": 438,
     "respuestas": [
       {
         "nombre": "Es una idea creativa para una campa\u00f1a publicitaria. Sirve para generar empat\u00eda con el p\u00fablico objetivo.",
@@ -8248,7 +8255,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfDe qu\u00e9 se encarga el dise\u00f1ador gr\u00e1fico dentro del proceso de una campa\u00f1a? ",
-    "indice": 438,
+    "indice": 439,
     "respuestas": [
       {
         "nombre": "De la planificaci\u00f3n de la estrategia de comunicaci\u00f3n.",
@@ -8267,7 +8274,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1les son los elementos que componen la creaci\u00f3n de un Key Visual? ",
-    "indice": 439,
+    "indice": 440,
     "respuestas": [
       {
         "nombre": "Imagen, slogan y copy.",
@@ -8286,7 +8293,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1l es la diferencia entre una campa\u00f1a publicitaria social y una campa\u00f1a publicitaria comercial? ",
-    "indice": 440,
+    "indice": 441,
     "respuestas": [
       {
         "nombre": "Una campa\u00f1a publicitaria social tiene como objetivo promover un cambio social, mientras que una campa\u00f1a publicitaria comercial tiene como objetivo vender productos o servicios.",
@@ -8305,7 +8312,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es una figura ret\u00f3rica? ",
-    "indice": 441,
+    "indice": 442,
     "respuestas": [
       {
         "nombre": "Un recurso literario que se utiliza para crear efectos po\u00e9ticos o estil\u00edsticos en el lenguaje.",
@@ -8324,7 +8331,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es la met\u00e1fora publicitaria y c\u00f3mo se emplea en la gr\u00e1fica? ",
-    "indice": 442,
+    "indice": 443,
     "respuestas": [
       {
         "nombre": "Una figura ret\u00f3rica que compara dos elementos diferentes para transmitir un mensaje publicitario de manera creativa.",
@@ -8347,7 +8354,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un s\u00edmbolo y c\u00f3mo se utiliza en la publicidad? ",
-    "indice": 443,
+    "indice": 444,
     "respuestas": [
       {
         "nombre": "Una palabra o frase breve y pegadiza que resume la identidad de una marca.",
@@ -8366,7 +8373,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es una sin\u00e9cdoque publicitaria? ",
-    "indice": 444,
+    "indice": 445,
     "respuestas": [
       {
         "nombre": "Una figura ret\u00f3rica que utiliza una parte de algo para representar el todo.",
@@ -8385,7 +8392,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 muestra la ant\u00edtesis dentro de la composici\u00f3n de un anuncio publicitario? ",
-    "indice": 445,
+    "indice": 446,
     "respuestas": [
       {
         "nombre": "La relaci\u00f3n de opuestos para resaltar las caracter\u00edsticas de un producto o servicio.",
@@ -8404,7 +8411,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es la semi\u00f3tica publicitaria? ",
-    "indice": 446,
+    "indice": 447,
     "respuestas": [
       {
         "nombre": "El estudio de los signos y s\u00edmbolos en la publicidad y c\u00f3mo afectan al consumidor.",
@@ -8423,7 +8430,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 hace que un s\u00edmbolo sea reconocible y por qu\u00e9 se utilizan en la publicidad? ",
-    "indice": 447,
+    "indice": 448,
     "respuestas": [
       {
         "nombre": "Su simplicidad y capacidad de identificar una marca de manera r\u00e1pida y efectiva.",
@@ -8442,7 +8449,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un concepto creativo? ",
-    "indice": 448,
+    "indice": 449,
     "respuestas": [
       {
         "nombre": "La idea principal detr\u00e1s de una campa\u00f1a publicitaria que comunica el mensaje de la marca.",
@@ -8461,7 +8468,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el Art Noveau? ",
-    "indice": 449,
+    "indice": 450,
     "respuestas": [
       {
         "nombre": "Un movimiento art\u00edstico de principios del siglo XX que se caracteriza por sus formas curvas y l\u00edneas sinuosas",
@@ -8480,7 +8487,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el Estilo Alem\u00e1n? ",
-    "indice": 450,
+    "indice": 451,
     "respuestas": [
       {
         "nombre": "Un estilo de dise\u00f1o que se caracteriza por la simplicidad, la funcionalidad y la claridad",
@@ -8499,7 +8506,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1ndo surge la imprenta y por qu\u00e9? ",
-    "indice": 451,
+    "indice": 452,
     "respuestas": [
       {
         "nombre": "Surge en el siglo XV gracias a la invenci\u00f3n de la imprenta de tipos m\u00f3viles por parte de Johannes Gutenberg",
@@ -8518,7 +8525,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el balance y para qu\u00e9 sirve? ",
-    "indice": 452,
+    "indice": 453,
     "respuestas": [
       {
         "nombre": "Es la distribuci\u00f3n visual de elementos en un dise\u00f1o para crear una sensaci\u00f3n de estabilidad y armon\u00eda",
@@ -8537,7 +8544,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1l es la funci\u00f3n de las figuras org\u00e1nicas en el dise\u00f1o? ",
-    "indice": 453,
+    "indice": 454,
     "respuestas": [
       {
         "nombre": "Agregar un aspecto natural y suave a un dise\u00f1o",
@@ -8556,7 +8563,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es una tipograf\u00eda con serif? ",
-    "indice": 454,
+    "indice": 455,
     "respuestas": [
       {
         "nombre": "Una tipograf\u00eda con detalles decorativos en los extremos de las letras",
@@ -8575,7 +8582,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el counter dentro del dise\u00f1o de una tipograf\u00eda? ",
-    "indice": 455,
+    "indice": 456,
     "respuestas": [
       {
         "nombre": "El espacio en blanco que se encuentra dentro de una letra",
@@ -8594,7 +8601,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es una familia tipogr\u00e1fica? ",
-    "indice": 456,
+    "indice": 457,
     "respuestas": [
       {
         "nombre": "Un conjunto de fuentes que tienen un estilo y dise\u00f1o similar",
@@ -8613,7 +8620,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1l de estos conceptos corresponde a la psicolog\u00eda del color? ",
-    "indice": 457,
+    "indice": 458,
     "respuestas": [
       {
         "nombre": "La composici\u00f3n visual de un dise\u00f1o",
@@ -8632,7 +8639,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfDiferencie entre los conceptos de armon\u00eda y contraste? ",
-    "indice": 458,
+    "indice": 459,
     "respuestas": [
       {
         "nombre": "La armon\u00eda se refiere a la combinaci\u00f3n de elementos similares en un dise\u00f1o, mientras que el contraste se refiere a la combinaci\u00f3n de elementos diferentes en un dise\u00f1o",
@@ -8651,7 +8658,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 evocan psicol\u00f3gicamente los colores c\u00e1lidos? ",
-    "indice": 459,
+    "indice": 460,
     "respuestas": [
       {
         "nombre": "Una sensaci\u00f3n de calma y relajaci\u00f3n",
@@ -8670,7 +8677,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 comunican psicol\u00f3gicamente los colores fr\u00edos? ",
-    "indice": 460,
+    "indice": 461,
     "respuestas": [
       {
         "nombre": "Una sensaci\u00f3n de calma y relajaci\u00f3n",
@@ -8689,7 +8696,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1les son los colores primarios? ",
-    "indice": 461,
+    "indice": 462,
     "respuestas": [
       {
         "nombre": "Rojo, verde y azul",
@@ -8708,7 +8715,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfPara qu\u00e9 sirve una ret\u00edcula? ",
-    "indice": 462,
+    "indice": 463,
     "respuestas": [
       {
         "nombre": "Para crear dibujos art\u00edsticos",
@@ -8727,7 +8734,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es una viuda en la diagramaci\u00f3n de texto? ",
-    "indice": 463,
+    "indice": 464,
     "respuestas": [
       {
         "nombre": "Un espacio vac\u00edo en la parte inferior de una p\u00e1gina",
@@ -8746,7 +8753,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfIdentifique el concepto de medianil en la diagramaci\u00f3n? ",
-    "indice": 464,
+    "indice": 465,
     "respuestas": [
       {
         "nombre": "Una l\u00ednea que divide una p\u00e1gina en dos partes iguales",
@@ -8765,7 +8772,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el horizonte \u00e1urico dentro de la diagramaci\u00f3n y para qu\u00e9 sirve? ",
-    "indice": 465,
+    "indice": 466,
     "respuestas": [
       {
         "nombre": "Una l\u00ednea que se utiliza para alinear elementos de dise\u00f1o en una p\u00e1gina",
@@ -8784,7 +8791,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfEl machote es una herramienta de diagramaci\u00f3n, identifique para qu\u00e9 sirve? ",
-    "indice": 466,
+    "indice": 467,
     "respuestas": [
       {
         "nombre": "Para dise\u00f1ar gr\u00e1ficos vectoriales",
@@ -8803,7 +8810,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfIdentifique los componentes de una portada de revista? ",
-    "indice": 467,
+    "indice": 468,
     "respuestas": [
       {
         "nombre": "T\u00edtulo, subt\u00edtulo, imagen de portada, descripci\u00f3n del contenido",
@@ -8822,7 +8829,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 elementos componen el estilo de una revista? ",
-    "indice": 468,
+    "indice": 469,
     "respuestas": [
       {
         "nombre": "Elecci\u00f3n de tipograf\u00eda, colores, dise\u00f1o de p\u00e1gina y contenido",
@@ -8841,7 +8848,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el estilo art\u00edstico? ",
-    "indice": 469,
+    "indice": 470,
     "respuestas": [
       {
         "nombre": "Un conjunto de t\u00e9cnicas de dibujo utilizadas por artistas",
@@ -8860,7 +8867,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el pop art y c\u00f3mo se origin\u00f3 el estilo? ",
-    "indice": 470,
+    "indice": 471,
     "respuestas": [
       {
         "nombre": "Un estilo art\u00edstico que utiliza motivos populares y de la cultura de masas, originado en la d\u00e9cada de 1950 en el Reino Unido",
@@ -8879,7 +8886,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfIdentifique qu\u00e9 concepto representa al minimalismo? ",
-    "indice": 471,
+    "indice": 472,
     "respuestas": [
       {
         "nombre": "Uso excesivo de ornamentos y decoraciones",
@@ -8894,7 +8901,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es la s\u00edntesis de la imagen? ",
-    "indice": 472,
+    "indice": 473,
     "respuestas": [
       {
         "nombre": "Es la creaci\u00f3n de im\u00e1genes a trav\u00e9s de la combinaci\u00f3n de distintos elementos visuales.",
@@ -8913,7 +8920,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQui\u00e9n es Andy Warhol y cu\u00e1l fue su aporte al dise\u00f1o gr\u00e1fico contempor\u00e1neo? ",
-    "indice": 473,
+    "indice": 474,
     "respuestas": [
       {
         "nombre": "Un dise\u00f1ador gr\u00e1fico conocido por su estilo minimalista.",
@@ -8932,7 +8939,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfIdentifique los tipos de collage existentes? ",
-    "indice": 474,
+    "indice": 475,
     "respuestas": [
       {
         "nombre": "Anal\u00f3gico y digital.",
@@ -8951,7 +8958,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el collage y cu\u00e1l es su concepto? ",
-    "indice": 475,
+    "indice": 476,
     "respuestas": [
       {
         "nombre": "Es una t\u00e9cnica art\u00edstica que consiste en pegar objetos diversos en una superficie plana.",
@@ -8970,7 +8977,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQui\u00e9n es David Carson y en qu\u00e9 se basa su estilo de dise\u00f1o? ",
-    "indice": 476,
+    "indice": 477,
     "respuestas": [
       {
         "nombre": "Un dise\u00f1ador gr\u00e1fico que utiliza tipograf\u00eda poco legible y elementos gr\u00e1ficos abstractos.",
@@ -8989,7 +8996,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1l es el estilo propio de dise\u00f1o? ",
-    "indice": 477,
+    "indice": 478,
     "respuestas": [
       {
         "nombre": "Es el conjunto de caracter\u00edsticas y t\u00e9cnicas que un dise\u00f1ador utiliza para crear sus trabajos de manera \u00fanica e identificable.",
