@@ -703,9 +703,13 @@
   },
   {
     "seccion": "DESARROLLO DE PROYECTOS ",
-    "titulo": "La fase Empatizar permite conocer mejor a la audiencia a la que se dirige el proyecto  Verdadero ",
+    "titulo": "La fase Empatizar permite conocer mejor a la audiencia a la que se dirige el proyecto  ",
     "indice": 42,
     "respuestas": [
+      {
+        "nombre": "Verdadero",
+        "correcta": true
+      },
       {
         "nombre": "Falso",
         "correcta": false
@@ -922,7 +926,11 @@
         "correcta": true
       },
       {
-        "nombre": "La facilidad de mantenimiento Los bajos costos",
+        "nombre": "La facilidad de mantenimiento",
+        "correcta": false
+      },
+      {
+        "nombre": "Los bajos costos",
         "correcta": false
       }
     ]
@@ -1265,7 +1273,7 @@
       },
       {
         "nombre": "Feed",
-        "correcta": false
+        "correcta": true
       }
     ]
   },
@@ -1480,9 +1488,13 @@
   },
   {
     "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "En la composici\u00f3n de un arte el elemento que debe alejarse de los bordes es  El texto ",
+    "titulo": "En la composici\u00f3n de un arte el elemento que debe alejarse de los bordes es  ",
     "indice": 85,
     "respuestas": [
+      {
+        "nombre": "El texto",
+        "correcta": true
+      },
       {
         "nombre": "El fondo",
         "correcta": false
@@ -1716,15 +1728,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
-    "indice": 100,
-    "respuestas": []
-  },
-  {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "La funci\u00f3n del dise\u00f1o editorial es  ",
-    "indice": 101,
+    "indice": 100,
     "respuestas": [
       {
         "nombre": "Dotar de expresi\u00f3n y personalidad al contenido",
@@ -1741,9 +1747,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Una correcta mezcla y combinaci\u00f3n de color debe  ",
-    "indice": 102,
+    "indice": 101,
     "respuestas": [
       {
         "nombre": "Crear una combinaci\u00f3n basada en contrastes y estabilidad",
@@ -1760,9 +1766,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Organizar y dividir el contenido de la p\u00e1gina tomando en consideraci\u00f3n  ",
-    "indice": 103,
+    "indice": 102,
     "respuestas": [
       {
         "nombre": "La ret\u00edcula del documento",
@@ -1779,9 +1785,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Las mejores herramientas al momento de dise\u00f1ar son  ",
-    "indice": 104,
+    "indice": 103,
     "respuestas": [
       {
         "nombre": "Equilibrio y legibilidad",
@@ -1798,9 +1804,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Al dise\u00f1ar se debe evitar  ",
-    "indice": 105,
+    "indice": 104,
     "respuestas": [
       {
         "nombre": "Contraste de color entre texto y fondo",
@@ -1817,9 +1823,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Al trabajar con texto se debe utilizar  ",
-    "indice": 106,
+    "indice": 105,
     "respuestas": [
       {
         "nombre": "Exceso de cursivas",
@@ -1836,9 +1842,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Uno de las siguientes no es un elemento de las p\u00e1ginas de revistas  ",
-    "indice": 107,
+    "indice": 106,
     "respuestas": [
       {
         "nombre": "Folio",
@@ -1855,9 +1861,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Una de las ventajas de producir un n\u00famero editorial piloto es  ",
-    "indice": 108,
+    "indice": 107,
     "respuestas": [
       {
         "nombre": "Ofrece la oportunidad de experimentar con cada aspecto de la revista",
@@ -1874,9 +1880,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Basar las ventas en el color no representa una estrategia adecuada debido a que  ",
-    "indice": 109,
+    "indice": 108,
     "respuestas": [
       {
         "nombre": "Los colores no influyen en las ventas",
@@ -1893,9 +1899,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Entre los 10 mandamientos de Roger Black tenemos  ",
-    "indice": 110,
+    "indice": 109,
     "respuestas": [
       {
         "nombre": "El primer color es el blanco, el segundo es el negro y el tercero el rojo",
@@ -1912,9 +1918,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Seg\u00fan Roger Black  ",
-    "indice": 111,
+    "indice": 110,
     "respuestas": [
       {
         "nombre": "Una portada tiene que ser un cartel",
@@ -1931,10 +1937,14 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "La \u00faltima l\u00ednea de un p\u00e1rrafo cuando aparece sola a la cabeza de una p\u00e1gina o columna  L\u00ednea corta ",
-    "indice": 112,
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
+    "titulo": "La \u00faltima l\u00ednea de un p\u00e1rrafo cuando aparece sola a la cabeza de una p\u00e1gina o columna  ",
+    "indice": 111,
     "respuestas": [
+      {
+        "nombre": "L\u00ednea corta",
+        "correcta": false
+      },
       {
         "nombre": "Viuda",
         "correcta": true
@@ -1946,9 +1956,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "La primera l\u00ednea de un p\u00e1rrafo que ha quedado sola al final de la p\u00e1gina o columna  ",
-    "indice": 113,
+    "indice": 112,
     "respuestas": [
       {
         "nombre": "L\u00ednea corta",
@@ -1965,9 +1975,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Son l\u00edneas con espaciado entre palabras muy pronunciado o desigual ",
-    "indice": 114,
+    "indice": 113,
     "respuestas": [
       {
         "nombre": "R\u00edos",
@@ -1984,9 +1994,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "En Adobe InDesign, la herramienta que ayuda a corregir los espacios entre palabras es  ",
-    "indice": 115,
+    "indice": 114,
     "respuestas": [
       {
         "nombre": "Tracking",
@@ -2003,9 +2013,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "En Adobe InDesign, permite separar por cap\u00edtulos un libro en formato EPUB  ",
-    "indice": 116,
+    "indice": 115,
     "respuestas": [
       {
         "nombre": "Estilos de car\u00e1cter",
@@ -2022,9 +2032,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Tipo de maquetaci\u00f3n que permite visualizar un libro EPUB en diferentes dispositivos   ",
-    "indice": 117,
+    "indice": 116,
     "respuestas": [
       {
         "nombre": "Una maquetaci\u00f3n fija",
@@ -2041,9 +2051,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Uno de los beneficios de empaquetar un documento de Adobe InDesign es  ",
-    "indice": 118,
+    "indice": 117,
     "respuestas": [
       {
         "nombre": "Tener archivos de menor tama\u00f1o",
@@ -2060,9 +2070,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "En Adobe InDesign, las p\u00e1ginas maestras sirven para  ",
-    "indice": 119,
+    "indice": 118,
     "respuestas": [
       {
         "nombre": "Diagramar el contenido de las p\u00e1ginas",
@@ -2079,9 +2089,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Para que se reconozcan los saltos de cap\u00edtulos en un documento EPUB se debe aplicar en las opciones de estilo  ",
-    "indice": 120,
+    "indice": 119,
     "respuestas": [
       {
         "nombre": "Etiquetas de exportaci\u00f3n",
@@ -2098,8 +2108,23 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "Las mejores herramientas al momento de dise\u00f1ar son la buena utilizaci\u00f3n del espacio y contraste de color  ",
+    "indice": 120,
+    "respuestas": [
+      {
+        "nombre": "Verdadero",
+        "correcta": true
+      },
+      {
+        "nombre": "Falso",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
+    "titulo": "La falta de legibilidad puede darse debido al poco espacio entre las letras   ",
     "indice": 121,
     "respuestas": [
       {
@@ -2113,38 +2138,38 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "La falta de legibilidad puede darse debido al poco espacio entre las letras   ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
+    "titulo": "Los documentos EPUB son recomendados para libros con gran cantidad de im\u00e1genes  ",
     "indice": 122,
     "respuestas": [
       {
         "nombre": "Verdadero",
-        "correcta": true
+        "correcta": false
       },
       {
         "nombre": "Falso",
-        "correcta": false
+        "correcta": true
       }
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "Los documentos EPUB son recomendados para libros con gran cantidad de im\u00e1genes  ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
+    "titulo": "Se recomienda convertir el texto a curvas previo al proceso de impresi\u00f3n  ",
     "indice": 123,
     "respuestas": [
       {
         "nombre": "Verdadero",
-        "correcta": false
+        "correcta": true
       },
       {
         "nombre": "Falso",
-        "correcta": true
+        "correcta": false
       }
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "Se recomienda convertir el texto a curvas previo al proceso de impresi\u00f3n  ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
+    "titulo": "Una maquetaci\u00f3n responsive puede visualizarse correctamente en diferentes dispositivos electr\u00f3nicos  ",
     "indice": 124,
     "respuestas": [
       {
@@ -2158,38 +2183,38 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "Una maquetaci\u00f3n responsive puede visualizarse correctamente en diferentes dispositivos electr\u00f3nicos  ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
+    "titulo": "Una maquetaci\u00f3n fija se adapta a la pantalla de diferentes dispositivos  ",
     "indice": 125,
     "respuestas": [
       {
         "nombre": "Verdadero",
-        "correcta": true
+        "correcta": false
       },
       {
         "nombre": "Falso",
-        "correcta": false
+        "correcta": true
       }
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "Una maquetaci\u00f3n fija se adapta a la pantalla de diferentes dispositivos  ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
+    "titulo": "Las p\u00e1ginas maestras sirven para colocar elementos que se repiten en varias p\u00e1ginas como las vi\u00f1etas de una revista  ",
     "indice": 126,
     "respuestas": [
       {
         "nombre": "Verdadero",
-        "correcta": false
+        "correcta": true
       },
       {
         "nombre": "Falso",
-        "correcta": true
+        "correcta": false
       }
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "Las p\u00e1ginas maestras sirven para colocar elementos que se repiten en varias p\u00e1ginas como las vi\u00f1etas de una revista  ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
+    "titulo": "El contraste y la repetici\u00f3n son conceptos visuales que ayudan a lograr un buen dise\u00f1o  ",
     "indice": 127,
     "respuestas": [
       {
@@ -2203,21 +2228,14 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "El contraste y la repetici\u00f3n son conceptos visuales que ayudan a lograr un buen dise\u00f1o  Verdadero ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
+    "titulo": "Es recomendable usar tramas con colores arco\u00edris para conseguir una buena legibilidad  ",
     "indice": 128,
     "respuestas": [
       {
-        "nombre": "Falso",
+        "nombre": "Verdadero",
         "correcta": false
-      }
-    ]
-  },
-  {
-    "seccion": "DISE\u00d1O PARA REDES ",
-    "titulo": "Es recomendable usar tramas con colores arco\u00edris para conseguir una buena legibilidad  Verdadero ",
-    "indice": 129,
-    "respuestas": [
+      },
       {
         "nombre": "Falso",
         "correcta": true
@@ -2225,9 +2243,9 @@
     ]
   },
   {
-    "seccion": "DISE\u00d1O PARA REDES ",
+    "seccion": "DISE\u00d1O Y DIAGRAMACI\u00d3N  ",
     "titulo": "No es posible adaptar un libro impreso a un formato digital con maquetaci\u00f3n fluida en Adobe InDesign  ",
-    "indice": 130,
+    "indice": 129,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2241,9 +2259,13 @@
   },
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
-    "titulo": "Los Petrogrifos son  Grabados rupestres ",
-    "indice": 131,
+    "titulo": "Los Petrogrifos son  ",
+    "indice": 130,
     "respuestas": [
+      {
+        "nombre": "Grabados rupestres",
+        "correcta": true
+      },
       {
         "nombre": "Ideas conceptuales",
         "correcta": false
@@ -2257,7 +2279,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "Los pictogramas e ideogramas ",
-    "indice": 132,
+    "indice": 131,
     "respuestas": [
       {
         "nombre": "Son signos ling\u00fc\u00edsticos",
@@ -2276,7 +2298,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "La escritura cuneiforme nace en  ",
-    "indice": 133,
+    "indice": 132,
     "respuestas": [
       {
         "nombre": "Creta",
@@ -2295,7 +2317,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "Los artistas del periodo Paleol\u00edtico desarrollaron una tendencia a  ",
-    "indice": 134,
+    "indice": 133,
     "respuestas": [
       {
         "nombre": "La abstracci\u00f3n y modernizaci\u00f3n de sus trazos",
@@ -2314,7 +2336,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "Un manuscrito iluminado es  ",
-    "indice": 135,
+    "indice": 134,
     "respuestas": [
       {
         "nombre": "Un texto medieval impreso de forma r\u00fastica",
@@ -2333,7 +2355,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "El dise\u00f1o celta  ",
-    "indice": 136,
+    "indice": 135,
     "respuestas": [
       {
         "nombre": "Es mayormente ornamental con tonalidades pasteles",
@@ -2352,7 +2374,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "El Libro de Kells es  ",
-    "indice": 137,
+    "indice": 136,
     "respuestas": [
       {
         "nombre": "Un manuscrito celta",
@@ -2371,7 +2393,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "El principio gr\u00e1fico llamado disminuyendo consiste en  ",
-    "indice": 138,
+    "indice": 137,
     "respuestas": [
       {
         "nombre": "Disminuir el espacio entre las palabras",
@@ -2390,7 +2412,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "La innovaci\u00f3n radical en el dise\u00f1o de los manuscritos celta fue  ",
-    "indice": 139,
+    "indice": 138,
     "respuestas": [
       {
         "nombre": "Modelo de letra uniforme  min\u00fascula carolingia",
@@ -2409,7 +2431,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "Los trazos redondos se eliminaron casi por completo en  ",
-    "indice": 140,
+    "indice": 139,
     "respuestas": [
       {
         "nombre": "Manuscritos rom\u00e1nicos y g\u00f3ticos",
@@ -2428,7 +2450,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "Una de las siguientes no es una caracter\u00edstica de los Manuscritos Judaicos  ",
-    "indice": 141,
+    "indice": 140,
     "respuestas": [
       {
         "nombre": "Separaciones ornamentales entre las palabras para simular espacios",
@@ -2447,7 +2469,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "Dibujaban adornos en forma de rosas para separar los versos  ",
-    "indice": 142,
+    "indice": 141,
     "respuestas": [
       {
         "nombre": "Manuscritos judaicos",
@@ -2466,7 +2488,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "El primer dise\u00f1ador en moldear letras decorativas fue  ",
-    "indice": 143,
+    "indice": 142,
     "respuestas": [
       {
         "nombre": "William Blake",
@@ -2485,7 +2507,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "Primer tip\u00f3grafo en desarrollar los caracteres ultra gruesos \u201cfat faces\u201d fue  ",
-    "indice": 144,
+    "indice": 143,
     "respuestas": [
       {
         "nombre": "William Blake",
@@ -2504,7 +2526,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "La litograf\u00eda surge por  ",
-    "indice": 145,
+    "indice": 144,
     "respuestas": [
       {
         "nombre": "Necesidad de un m\u00e9todo barato de impresi\u00f3n",
@@ -2523,7 +2545,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "En 1837 patent\u00f3 un proceso llamado \u201ccromolitograf\u00eda\u201d  ",
-    "indice": 146,
+    "indice": 145,
     "respuestas": [
       {
         "nombre": "Richard M. Hoe",
@@ -2542,7 +2564,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "En 1846 perfeccion\u00f3 la prensa litogr\u00e1fica rotativa  ",
-    "indice": 147,
+    "indice": 146,
     "respuestas": [
       {
         "nombre": "Godefroy Engelmann",
@@ -2561,7 +2583,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "Desempe\u00f1\u00f3 un papel importante en la separaci\u00f3n del dise\u00f1o gr\u00e1fico de la impresi\u00f3n  ",
-    "indice": 148,
+    "indice": 147,
     "respuestas": [
       {
         "nombre": "William Morris",
@@ -2580,7 +2602,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "L\u00edder del Movimiento de artes y oficios ingl\u00e9s  ",
-    "indice": 149,
+    "indice": 148,
     "respuestas": [
       {
         "nombre": "William Morris",
@@ -2599,7 +2621,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "La base de las teor\u00edas de John Ruskin era  ",
-    "indice": 150,
+    "indice": 149,
     "respuestas": [
       {
         "nombre": "Respetar la naturaleza de los materiales y los m\u00e9todos de producci\u00f3n",
@@ -2618,7 +2640,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "El principio gr\u00e1fico llamado disminuyendo consiste en la iluminaci\u00f3n de letras capitales  ",
-    "indice": 151,
+    "indice": 150,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2633,7 +2655,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "William Caslon fue el l\u00edder del movimiento Renacentista  ",
-    "indice": 152,
+    "indice": 151,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2648,7 +2670,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "Johannes Gutenberg desarroll\u00f3 los primeros libros iluminados  ",
-    "indice": 153,
+    "indice": 152,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2663,7 +2685,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "William Blake utilizaba la t\u00e9cnica de la acuarela en sus trabajos  ",
-    "indice": 154,
+    "indice": 153,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2678,7 +2700,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "En la \u00e9poca de la Revoluci\u00f3n Industrial el dise\u00f1o tuvo un gran auge debido a la necesidad de promocionar los productos que se desarrollaban en las f\u00e1bricas  ",
-    "indice": 155,
+    "indice": 154,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2693,7 +2715,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "La cromolitograf\u00eda consist\u00eda en una t\u00e9cnica fotogr\u00e1fica de bajo costo  ",
-    "indice": 156,
+    "indice": 155,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2708,7 +2730,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "La Escuela Bauhaus fue fundada por dise\u00f1adores estadounidenses  ",
-    "indice": 157,
+    "indice": 156,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2723,7 +2745,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "La invenci\u00f3n de la imprenta en la \u00e9poca de la Revoluci\u00f3n Industrial permiti\u00f3 reducir costos en la fabricaci\u00f3n de libros  ",
-    "indice": 158,
+    "indice": 157,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2738,7 +2760,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "El dise\u00f1o Celta de los Libros Iluminados utilizaba motivos geom\u00e9tricos, lineales, zigzagueantes, colores brillantes y puros en yuxtaposici\u00f3n  ",
-    "indice": 159,
+    "indice": 158,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2753,7 +2775,7 @@
   {
     "seccion": "HISTORIA DEL DISE\u00d1O  ",
     "titulo": "En la Renovaci\u00f3n Gr\u00e1fica Carolingia se trat\u00f3 de estandarizar el dise\u00f1o de la p\u00e1gina, el estilo de escritura y la ornamentaci\u00f3n  ",
-    "indice": 160,
+    "indice": 159,
     "respuestas": [
       {
         "nombre": "Verdadero",
@@ -2768,7 +2790,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "El Stopmotion ",
-    "indice": 161,
+    "indice": 160,
     "respuestas": [
       {
         "nombre": "En general se denomina a las que no entran en la categor\u00eda de dibujo animado, ni en la animaci\u00f3n por computadora 3D",
@@ -2783,7 +2805,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfCu\u00e1l de estos no es un paso para la animaci\u00f3n Stop Motion? ",
-    "indice": 162,
+    "indice": 161,
     "respuestas": [
       {
         "nombre": "Pintura de la figura",
@@ -2802,7 +2824,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es el esqueleto? ",
-    "indice": 163,
+    "indice": 162,
     "respuestas": [
       {
         "nombre": "Los huesos humanos",
@@ -2821,7 +2843,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es la armadura? ",
-    "indice": 164,
+    "indice": 163,
     "respuestas": [
       {
         "nombre": "Con lo que se protege la escultura",
@@ -2840,7 +2862,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfCon qu\u00e9 se realiza el esqueleto? ",
-    "indice": 165,
+    "indice": 164,
     "respuestas": [
       {
         "nombre": "Alambre",
@@ -2859,7 +2881,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfC\u00f3mo se llama la arcilla que seca al aire? ",
-    "indice": 166,
+    "indice": 165,
     "respuestas": [
       {
         "nombre": "Wed Clay",
@@ -2878,7 +2900,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfCu\u00e1l de estos no es un tipo de plastilina? ",
-    "indice": 167,
+    "indice": 166,
     "respuestas": [
       {
         "nombre": "Monsters Makers",
@@ -2897,7 +2919,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfLa arcilla que se debe hornear para endurecer y que su acabado es como pl\u00e1stico se llama? ",
-    "indice": 168,
+    "indice": 167,
     "respuestas": [
       {
         "nombre": "Wed Clay",
@@ -2916,7 +2938,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "Otro material para esculpir ",
-    "indice": 169,
+    "indice": 168,
     "respuestas": [
       {
         "nombre": "Yeso",
@@ -2935,7 +2957,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "Rakes y Loops son ",
-    "indice": 170,
+    "indice": 169,
     "respuestas": [
       {
         "nombre": "Herramientas para modelar",
@@ -2954,7 +2976,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfCu\u00e1l es el principio de animaci\u00f3n m\u00e1s importante de todos? ",
-    "indice": 171,
+    "indice": 170,
     "respuestas": [
       {
         "nombre": "Aceleraci\u00f3n y desaceleraci\u00f3n",
@@ -2977,7 +2999,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "Cu\u00e1l material para hacer los mu\u00f1ecos de Stopmotion es el mejor? ",
-    "indice": 172,
+    "indice": 171,
     "respuestas": [
       {
         "nombre": "Silicon RTV",
@@ -2996,7 +3018,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "Qu\u00e9 es el dur\u00f3metro en un silicon ",
-    "indice": 173,
+    "indice": 172,
     "respuestas": [
       {
         "nombre": "La flexibilidad",
@@ -3019,7 +3041,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "Qu\u00e9 es el tiempo de curado en un silicon.- ",
-    "indice": 174,
+    "indice": 173,
     "respuestas": [
       {
         "nombre": "Luego de una lesi\u00f3n como se recupera",
@@ -3042,7 +3064,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "Qu\u00e9 es el pot life en el silicon. ",
-    "indice": 175,
+    "indice": 174,
     "respuestas": [
       {
         "nombre": "Como se aplica el silicon",
@@ -3065,7 +3087,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfCu\u00e1l de estas no es una marca de plastilinas? ",
-    "indice": 176,
+    "indice": 175,
     "respuestas": [
       {
         "nombre": "Monster Makers",
@@ -3084,7 +3106,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfCu\u00e1l de estos no es una categor\u00eda en dise\u00f1o de personaje? ",
-    "indice": 177,
+    "indice": 176,
     "respuestas": [
       {
         "nombre": "Momias",
@@ -3103,7 +3125,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 debe de tener una escultura de busto b\u00e1sico? ",
-    "indice": 178,
+    "indice": 177,
     "respuestas": [
       {
         "nombre": "Todo el cuerpo",
@@ -3122,7 +3144,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es molding? ",
-    "indice": 179,
+    "indice": 178,
     "respuestas": [
       {
         "nombre": "Sacar un positivo",
@@ -3141,7 +3163,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es casting? ",
-    "indice": 180,
+    "indice": 179,
     "respuestas": [
       {
         "nombre": "Sacar un positivo",
@@ -3160,7 +3182,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "Si voy a sacar un casting r\u00edgido el molde debe ser ",
-    "indice": 181,
+    "indice": 180,
     "respuestas": [
       {
         "nombre": "Silicona",
@@ -3179,7 +3201,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "Si voy a sacar un Casting flexible el molde puede ser ",
-    "indice": 182,
+    "indice": 181,
     "respuestas": [
       {
         "nombre": "Silicona",
@@ -3198,7 +3220,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "A la animaci\u00f3n Stop Motion realizada con objetos moldeables se le llama ",
-    "indice": 183,
+    "indice": 182,
     "respuestas": [
       {
         "nombre": "Claymation",
@@ -3217,7 +3239,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfC\u00f3mo s\u00e9 que el yeso ya est\u00e1 curado? ",
-    "indice": 184,
+    "indice": 183,
     "respuestas": [
       {
         "nombre": "Cambia de color",
@@ -3236,7 +3258,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "A la animaci\u00f3n Stop Motion realizada con personas se le llama ",
-    "indice": 185,
+    "indice": 184,
     "respuestas": [
       {
         "nombre": "Claymation",
@@ -3255,7 +3277,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "El Alginato es  ",
-    "indice": 186,
+    "indice": 185,
     "respuestas": [
       {
         "nombre": "Un material de impresi\u00f3n",
@@ -3274,7 +3296,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 tipo de silicona es la que se usa para el contacto con la piel? ",
-    "indice": 187,
+    "indice": 186,
     "respuestas": [
       {
         "nombre": "Uretano",
@@ -3293,7 +3315,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "A la animaci\u00f3n Stop Motion realizada con recortables se le llama ",
-    "indice": 188,
+    "indice": 187,
     "respuestas": [
       {
         "nombre": "Claymation",
@@ -3312,7 +3334,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es el Frame Rate? ",
-    "indice": 189,
+    "indice": 188,
     "respuestas": [
       {
         "nombre": "El Ratio de mezcla",
@@ -3331,7 +3353,7 @@
   {
     "seccion": "Artes Pl\u00e1sticas y Stop Motion, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es onion Skin? ",
-    "indice": 190,
+    "indice": 189,
     "respuestas": [
       {
         "nombre": "Una opci\u00f3n para borrar errores",
@@ -3350,7 +3372,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfC\u00f3mo se le llama tambi\u00e9n al lenguaje cinematogr\u00e1fico? ",
-    "indice": 191,
+    "indice": 190,
     "respuestas": [
       {
         "nombre": "Cine",
@@ -3369,7 +3391,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfPor qu\u00e9 se llama Lenguaje Audiovisual? ",
-    "indice": 192,
+    "indice": 191,
     "respuestas": [
       {
         "nombre": "Porque los elementos en pantalla construyen un mensaje\u00b4",
@@ -3388,7 +3410,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es la forma en un producto audiovisual? ",
-    "indice": 193,
+    "indice": 192,
     "respuestas": [
       {
         "nombre": "Es la forma que tiene una pel\u00edcula",
@@ -3407,7 +3429,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfCu\u00e1l no es un Subsistema del Lenguaje Cinematogr\u00e1fico? ",
-    "indice": 194,
+    "indice": 193,
     "respuestas": [
       {
         "nombre": "Narrativo",
@@ -3426,7 +3448,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfPor qu\u00e9 se dice que la respuesta emocional del p\u00fablico puede ser distinta?  ",
-    "indice": 195,
+    "indice": 194,
     "respuestas": [
       {
         "nombre": "Porque las pel\u00edculas tienen l\u00edmite de edad",
@@ -3445,7 +3467,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQui\u00e9n es un observador activo?  ",
-    "indice": 196,
+    "indice": 195,
     "respuestas": [
       {
         "nombre": "El que comenta sobre lo que ve a todas las personas a su alrededor",
@@ -3464,7 +3486,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 son los significados directos o concretos? ",
-    "indice": 197,
+    "indice": 196,
     "respuestas": [
       {
         "nombre": "Son identificables en un an\u00e1lisis r\u00e1pido de un producto",
@@ -3483,7 +3505,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Los significados que requieren una interpretaci\u00f3n se llaman ",
-    "indice": 198,
+    "indice": 197,
     "respuestas": [
       {
         "nombre": "S\u00edmbolos",
@@ -3502,7 +3524,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "El significado  Depende de la capacidad del espectador para identificar elementos concretos como el tiempo, el espacio y las acciones de los personajes. Se denomina ",
-    "indice": 199,
+    "indice": 198,
     "respuestas": [
       {
         "nombre": "Impl\u00edcito",
@@ -3525,7 +3547,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "El significado que  Que expresa con claridad algo.  ",
-    "indice": 200,
+    "indice": 199,
     "respuestas": [
       {
         "nombre": "Referencial",
@@ -3548,7 +3570,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Significado sugerido que da pie a algo denominado muchas veces \u201cTemas\u201d  ",
-    "indice": 201,
+    "indice": 200,
     "respuestas": [
       {
         "nombre": "Referencial",
@@ -3571,7 +3593,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "El significado que es involuntario se llama  ",
-    "indice": 202,
+    "indice": 201,
     "respuestas": [
       {
         "nombre": "Referencial",
@@ -3594,7 +3616,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "La Causalidad, Tiempo y Espacio son aspectos de  ",
-    "indice": 203,
+    "indice": 202,
     "respuestas": [
       {
         "nombre": "La Pel\u00edcula",
@@ -3613,7 +3635,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es un resumen? ",
-    "indice": 204,
+    "indice": 203,
     "respuestas": [
       {
         "nombre": "No se incluyen detalles del desenlace de la obra, con el fin de atraer al espectador a que la consuma.",
@@ -3632,7 +3654,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es un logline? ",
-    "indice": 205,
+    "indice": 204,
     "respuestas": [
       {
         "nombre": "No se incluyen detalles del desenlace de la obra, con el fin de atraer al espectador a que la consuma.",
@@ -3651,14 +3673,18 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es una Sin\u00f3psis? ",
-    "indice": 206,
+    "indice": 205,
     "respuestas": [
       {
         "nombre": "No se incluyen detalles del desenlace de la obra, con el fin de atraer al espectador a que la consuma.",
         "correcta": true
       },
       {
-        "nombre": "Una breve redacci\u00f3n que recoge las ideas principales de un producto a/v En una sola frase se articula de qu\u00e9 va la obra y cu\u00e1les son sus posibilidades. Suficientemente atractivo para el que lo lee o escucha para querer ver la obra y suficientemente informativa.",
+        "nombre": "Una breve redacci\u00f3n que recoge las ideas principales de un producto a/v En una sola frase se articula de qu\u00e9 va la obra y cu\u00e1les son sus posibilidades.",
+        "correcta": false
+      },
+      {
+        "nombre": "Suficientemente atractivo para el que lo lee o escucha para querer ver la obra y suficientemente informativa.",
         "correcta": false
       }
     ]
@@ -3666,7 +3692,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es el Argumento? ",
-    "indice": 207,
+    "indice": 206,
     "respuestas": [
       {
         "nombre": "Es el conjunto de todos los hechos de una narraci\u00f3n, tanto los que se presentan de forma expl\u00edcita, como aquellos que deduce el espectador.",
@@ -3685,7 +3711,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "El conflicto interno es. ",
-    "indice": 208,
+    "indice": 207,
     "respuestas": [
       {
         "nombre": "El que tiene el personaje en su casa",
@@ -3704,7 +3730,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "El deseo permite que  ",
-    "indice": 209,
+    "indice": 208,
     "respuestas": [
       {
         "nombre": "El personaje establezca una meta, y el desarrollo de la narraci\u00f3n probablemente tendr\u00e1 que ver con el proceso de conseguir esa meta.",
@@ -3723,7 +3749,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es el ACTO? ",
-    "indice": 210,
+    "indice": 209,
     "respuestas": [
       {
         "nombre": "Un momento de la obra",
@@ -3742,7 +3768,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Exposici\u00f3n o planteamiento/ Nudo o Confrontaci\u00f3n/Resoluci\u00f3n o desenlace Se le llama a   ",
-    "indice": 211,
+    "indice": 210,
     "respuestas": [
       {
         "nombre": "Los elementos de la narraci\u00f3n",
@@ -3761,7 +3787,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Al punto de mayor tensi\u00f3n y de no retorno de una historia lo llamamos\u2026 ",
-    "indice": 212,
+    "indice": 211,
     "respuestas": [
       {
         "nombre": "Cl\u00edmax",
@@ -3780,7 +3806,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "La cinematograf\u00eda se encarga de ",
-    "indice": 213,
+    "indice": 212,
     "respuestas": [
       {
         "nombre": "Audio y video",
@@ -3799,7 +3825,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "La cabeza del departamento de Fotograf\u00eda se llama ",
-    "indice": 214,
+    "indice": 213,
     "respuestas": [
       {
         "nombre": "Gaffer",
@@ -3818,7 +3844,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "El \u00e1ngulo, el movimiento y el plano son  ",
-    "indice": 215,
+    "indice": 214,
     "respuestas": [
       {
         "nombre": "Los que hace el Gaffer",
@@ -3837,7 +3863,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "El Director de arte  ",
-    "indice": 216,
+    "indice": 215,
     "respuestas": [
       {
         "nombre": "Construye la escenograf\u00eda",
@@ -3856,7 +3882,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "La utiler\u00eda es  ",
-    "indice": 217,
+    "indice": 216,
     "respuestas": [
       {
         "nombre": "Los elementos del decorado",
@@ -3875,7 +3901,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es la puesta en escena? ",
-    "indice": 218,
+    "indice": 217,
     "respuestas": [
       {
         "nombre": "Es poner los elementos en escena",
@@ -3894,19 +3920,16 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "El montaje y edici\u00f3n es lo mismo ",
-    "indice": 219,
+    "indice": 218,
     "respuestas": [
       {
         "nombre": "Verdadero",
         "correcta": false
-      }
-    ]
-  },
-  {
-    "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
-    "titulo": "Falso ",
-    "indice": 220,
-    "respuestas": [
+      },
+      {
+        "nombre": "Falso",
+        "correcta": true
+      },
       {
         "nombre": "Depende",
         "correcta": false
@@ -3916,7 +3939,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "En la postproducci\u00f3n se  ",
-    "indice": 221,
+    "indice": 219,
     "respuestas": [
       {
         "nombre": "Lee el gui\u00f3n y se a\u00f1aden cosas que pasaron por alto",
@@ -3939,7 +3962,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEn el canon humano en que cabeza se ubica el area del ombligo?  ",
-    "indice": 222,
+    "indice": 220,
     "respuestas": [
       {
         "nombre": "En la cuarta cabeza",
@@ -3958,7 +3981,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEl dibujo es una ilusi\u00f3n \u00f3ptica?   ",
-    "indice": 223,
+    "indice": 221,
     "respuestas": [
       {
         "nombre": "No, el dibujo no es una ilusi\u00f3n.",
@@ -3977,7 +4000,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEl carboncillo es un tipo de herramienta arcillosa de color rojo?  ",
-    "indice": 224,
+    "indice": 222,
     "respuestas": [
       {
         "nombre": "Si, el carboncillo es de color rojo",
@@ -3996,7 +4019,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEl carboncillo se puede borrar con un pincel h\u00famedo?  ",
-    "indice": 225,
+    "indice": 223,
     "respuestas": [
       {
         "nombre": "No, no es posible borrarlo as\u00ed.",
@@ -4015,7 +4038,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEl carboncilo puede usarse solamenrte sobre cartulina? ",
-    "indice": 226,
+    "indice": 224,
     "respuestas": [
       {
         "nombre": "Si, pero si es una cartulina sin textura.",
@@ -4034,7 +4057,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEs recomendable hacer apuntes r\u00e1pidos para el proceso de aprendizaje? ",
-    "indice": 227,
+    "indice": 225,
     "respuestas": [
       {
         "nombre": "No, es mejor dedicarse a terminar los dibujos al detalle y tomarse tiempo.",
@@ -4053,7 +4076,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEl proceso de esfumado de debe hacer con los dedos solamente? ",
-    "indice": 228,
+    "indice": 226,
     "respuestas": [
       {
         "nombre": "Si, debe hacerse con los dedos para poder palpar nuestro trabajo y controlarlo mejor.",
@@ -4072,7 +4095,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfLos difuminos son de un solo uso? ",
-    "indice": 229,
+    "indice": 227,
     "respuestas": [
       {
         "nombre": "S\u00ed, una vez que se ensucian es recomendable no reutilizarlo porque da\u00f1a el registro en el papel.",
@@ -4091,7 +4114,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Los n\u00fameros en los l\u00e1pices de grafito \u00bfqu\u00e9 significan? ",
-    "indice": 230,
+    "indice": 228,
     "respuestas": [
       {
         "nombre": "Antes representaban el tipo de largo del l\u00e1piz, pero actualmente ya no se usan.",
@@ -4110,7 +4133,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEn qu\u00e9 se diferencia el carboncillo del grafito? ",
-    "indice": 231,
+    "indice": 229,
     "respuestas": [
       {
         "nombre": "El carboncillo es ligeramente m\u00e1s gris\u00e1ceo que el grafito sobre todo en el papel blanco.",
@@ -4129,7 +4152,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEl carboncillo de color amarillo se llama barra de cromo? ",
-    "indice": 232,
+    "indice": 230,
     "respuestas": [
       {
         "nombre": "Si, aunque son muy complicadas de encontrar en el mercado.",
@@ -4148,7 +4171,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 significa la letra H en un l\u00e1piz de grafito? ",
-    "indice": 233,
+    "indice": 231,
     "respuestas": [
       {
         "nombre": "La letra H representa la palabra HOMBRE",
@@ -4167,7 +4190,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Si la letra B aparece en un l\u00e1piz de grafito ",
-    "indice": 234,
+    "indice": 232,
     "respuestas": [
       {
         "nombre": "Quiere decir que es BORRABLE",
@@ -4190,7 +4213,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Un l\u00e1piz HB ",
-    "indice": 235,
+    "indice": 233,
     "respuestas": [
       {
         "nombre": "Est\u00e1 en el punto intermedio entre la dureza y suavidad.",
@@ -4209,7 +4232,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Un l\u00e1piz de grafito 9H es muy suave, porque\u2026  ",
-    "indice": 236,
+    "indice": 234,
     "respuestas": [
       {
         "nombre": "Porque mientras es mayor el n\u00famero, es m\u00e1s suave.",
@@ -4228,7 +4251,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Un l\u00e1piz de grafito 9B es muy suave, porque\u2026 ",
-    "indice": 237,
+    "indice": 235,
     "respuestas": [
       {
         "nombre": "Porque mientras es mayor el n\u00famero, es m\u00e1s suave.",
@@ -4247,7 +4270,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEs posible que un dibujo tenga dos puntos de fuga? ",
-    "indice": 238,
+    "indice": 236,
     "respuestas": [
       {
         "nombre": "No, porque no tendr\u00eda sentido, ni representa la realidad.",
@@ -4266,7 +4289,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfEl punto de fuga sirve solamente cuando dibujamos objetos inanimados? ",
-    "indice": 239,
+    "indice": 237,
     "respuestas": [
       {
         "nombre": "Si, espec\u00edficamente para dibujar cajones o figuras geom\u00e9tricas como cajas y cilindros.",
@@ -4285,7 +4308,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfSi coloco una luz frente a una esfera, genera sombra? ",
-    "indice": 240,
+    "indice": 238,
     "respuestas": [
       {
         "nombre": "Si, pero siempre y cuando el objeto est\u00e9 sobre el piso.",
@@ -4304,7 +4327,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es una sombra proyectada? ",
-    "indice": 241,
+    "indice": 239,
     "respuestas": [
       {
         "nombre": "Es la sombra que realizamos como proyecto antes del dibujo.",
@@ -4319,7 +4342,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfLa herramienta de subexposici\u00f3n de Photoshop que hace? ",
-    "indice": 242,
+    "indice": 240,
     "respuestas": [
       {
         "nombre": "Expone la capa en subcapas.",
@@ -4338,7 +4361,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfLa herramienta de Path o trazado para que sirve? ",
-    "indice": 243,
+    "indice": 241,
     "respuestas": [
       {
         "nombre": "Para trazar l\u00edneas verticales cuando las gu\u00edas est\u00e1n activadas.",
@@ -4357,7 +4380,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfPorqu\u00e9 que se usa la cartulina canson? ",
-    "indice": 244,
+    "indice": 242,
     "respuestas": [
       {
         "nombre": "Porque es m\u00e1s resistente cuando se la expone a temperaturas altas.",
@@ -4376,7 +4399,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es m\u00e1s conveniente en el proceso de dibujar una imagen?  ",
-    "indice": 245,
+    "indice": 243,
     "respuestas": [
       {
         "nombre": "Intentar reproducir la imagen, primero en las partes m\u00e1s oscuras.",
@@ -4395,7 +4418,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfCu\u00e1ndo dibujamos en digital es importante setear la resoluci\u00f3n? ",
-    "indice": 246,
+    "indice": 244,
     "respuestas": [
       {
         "nombre": "Una vez terminada la ilustraci\u00f3n para subir el nivel de calidad.",
@@ -4414,7 +4437,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfQu\u00e9 es un color complementario?  ",
-    "indice": 247,
+    "indice": 245,
     "respuestas": [
       {
         "nombre": "El color opuesto en la rosa crom\u00e1tica",
@@ -4433,7 +4456,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Para obtener un mejor degradado, debemos  ",
-    "indice": 248,
+    "indice": 246,
     "respuestas": [
       {
         "nombre": "Pasar previamente el borrador de la hoja para tener un mejor agarre.",
@@ -4452,7 +4475,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Seg\u00fan el canon humano, la oreja   ",
-    "indice": 249,
+    "indice": 247,
     "respuestas": [
       {
         "nombre": "Se encuentra en la segunda cabeza.",
@@ -4471,7 +4494,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "Para trabajar con l\u00e1pices de colores   ",
-    "indice": 250,
+    "indice": 248,
     "respuestas": [
       {
         "nombre": "Es mejor, lavarse las manos para no ensuciar el soporte.",
@@ -4490,7 +4513,7 @@
   {
     "seccion": "Lengua Cinematogr\u00e1fico, Docente  Angie Gonz\u00e1lez",
     "titulo": "\u00bfD\u00f3nde se ubican los codos seg\u00fan el canon humano? ",
-    "indice": 251,
+    "indice": 249,
     "respuestas": [
       {
         "nombre": "En la cuarta cabeza debajo del antebrazo.",
@@ -4509,7 +4532,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "La unidad m\u00e1s peque\u00f1a de un mapa de bits es un  ",
-    "indice": 252,
+    "indice": 250,
     "respuestas": [
       {
         "nombre": "Byte",
@@ -4528,7 +4551,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Un megap\u00edxel es  ",
-    "indice": 253,
+    "indice": 251,
     "respuestas": [
       {
         "nombre": "1 mill\u00f3n de pixeles aprox.",
@@ -4547,7 +4570,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "A mayor cantidad de bits, mayor  ",
-    "indice": 254,
+    "indice": 252,
     "respuestas": [
       {
         "nombre": "Variedad de formas",
@@ -4566,7 +4589,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "El modo con mayor rango de color es  ",
-    "indice": 255,
+    "indice": 253,
     "respuestas": [
       {
         "nombre": "RGB",
@@ -4585,7 +4608,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "El modo de color que se basa en 4 tintas es  ",
-    "indice": 256,
+    "indice": 254,
     "respuestas": [
       {
         "nombre": "JPEG",
@@ -4604,7 +4627,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para obtener un color verde, combino las tintas  ",
-    "indice": 257,
+    "indice": 255,
     "respuestas": [
       {
         "nombre": "Cyan + Magenta",
@@ -4612,18 +4635,18 @@
       },
       {
         "nombre": "Cyan + Yellow",
-        "correcta": false
+        "correcta": true
       },
       {
         "nombre": "Magenta + Yellow",
-        "correcta": true
+        "correcta": false
       }
     ]
   },
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Modo de color utilizado para trabajos de video e internet  ",
-    "indice": 258,
+    "indice": 256,
     "respuestas": [
       {
         "nombre": "RGB",
@@ -4642,7 +4665,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Modo de color conformado por 4 canales  ",
-    "indice": 259,
+    "indice": 257,
     "respuestas": [
       {
         "nombre": "PNG",
@@ -4661,7 +4684,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "La resoluci\u00f3n es la cantidad de __________ que forman una imagen ",
-    "indice": 260,
+    "indice": 258,
     "respuestas": [
       {
         "nombre": "MEGAS",
@@ -4680,7 +4703,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "DPI significa  ",
-    "indice": 261,
+    "indice": 259,
     "respuestas": [
       {
         "nombre": "Puntos por pulgada",
@@ -4699,7 +4722,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "A mayor resoluci\u00f3n de una imagen, mayor  ",
-    "indice": 262,
+    "indice": 260,
     "respuestas": [
       {
         "nombre": "Compresi\u00f3n",
@@ -4718,7 +4741,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Resoluci\u00f3n para trabajos de imprenta  ",
-    "indice": 263,
+    "indice": 261,
     "respuestas": [
       {
         "nombre": "75 dpi",
@@ -4737,7 +4760,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Resoluci\u00f3n de video Full HD  ",
-    "indice": 264,
+    "indice": 262,
     "respuestas": [
       {
         "nombre": "720 x 1280",
@@ -4756,7 +4779,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Formato de compresi\u00f3n popular en redes sociales ",
-    "indice": 265,
+    "indice": 263,
     "respuestas": [
       {
         "nombre": "JPEG",
@@ -4775,7 +4798,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Formato que mantiene la calidad de la imagen  ",
-    "indice": 266,
+    "indice": 264,
     "respuestas": [
       {
         "nombre": "GIF",
@@ -4794,7 +4817,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Programa \u00f3ptimo para la creaci\u00f3n de logotipos  ",
-    "indice": 267,
+    "indice": 265,
     "respuestas": [
       {
         "nombre": "Adobe Photoshop",
@@ -4813,7 +4836,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Los gr\u00e1ficos vectoriales se generan por medio de  ",
-    "indice": 268,
+    "indice": 266,
     "respuestas": [
       {
         "nombre": "C\u00e1lculos Matem\u00e1ticos",
@@ -4832,7 +4855,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Los gr\u00e1ficos vectoriales tambi\u00e9n se los conoce como  ",
-    "indice": 269,
+    "indice": 267,
     "respuestas": [
       {
         "nombre": "Pixeles",
@@ -4851,7 +4874,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Los gr\u00e1ficos vectoriales no est\u00e1n conformados por  ",
-    "indice": 270,
+    "indice": 268,
     "respuestas": [
       {
         "nombre": "PIXELES",
@@ -4870,7 +4893,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Una ventaja de los gr\u00e1ficos vectoriales es  ",
-    "indice": 271,
+    "indice": 269,
     "respuestas": [
       {
         "nombre": "No se pueden escalar",
@@ -4889,7 +4912,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para desenfocar una imagen en Photoshop, utilizamos  ",
-    "indice": 272,
+    "indice": 270,
     "respuestas": [
       {
         "nombre": "Layer Mask",
@@ -4908,7 +4931,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para una selecci\u00f3n m\u00e1s precisa de un \u00e1rea con curvas, usamos  ",
-    "indice": 273,
+    "indice": 271,
     "respuestas": [
       {
         "nombre": "Pen Tool",
@@ -4927,7 +4950,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para Controlar la transparencia  ",
-    "indice": 274,
+    "indice": 272,
     "respuestas": [
       {
         "nombre": "Layer Style",
@@ -4946,7 +4969,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para esconder parte de una imagen sin destruirla  ",
-    "indice": 275,
+    "indice": 273,
     "respuestas": [
       {
         "nombre": "Paths",
@@ -4965,7 +4988,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para fusionar parte de una imagen con otra  ",
-    "indice": 276,
+    "indice": 274,
     "respuestas": [
       {
         "nombre": "Eliptical Marquee Tool",
@@ -4984,7 +5007,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para unir objetos vectoriales en Illustrator  ",
-    "indice": 277,
+    "indice": 275,
     "respuestas": [
       {
         "nombre": "Pathfinder",
@@ -5003,7 +5026,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para crear un segundo borde a un objeto vectorial  ",
-    "indice": 278,
+    "indice": 276,
     "respuestas": [
       {
         "nombre": "Blend Tool",
@@ -5022,7 +5045,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para crear sombra a un objeto vectorial  ",
-    "indice": 279,
+    "indice": 277,
     "respuestas": [
       {
         "nombre": "Inner Glow",
@@ -5041,7 +5064,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para convertir un texto a curvas o vectores  ",
-    "indice": 280,
+    "indice": 278,
     "respuestas": [
       {
         "nombre": "Pucker and Bloat",
@@ -5060,7 +5083,7 @@
   {
     "seccion": "Cuestionario de preguntas ENERO 2023  Im\u00e1genes Digitales ",
     "titulo": "Para obtener gr\u00e1ficos m\u00e1s realistas con vectores  ",
-    "indice": 281,
+    "indice": 279,
     "respuestas": [
       {
         "nombre": "Mesh Tool",
@@ -5079,7 +5102,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE - COLOR",
     "titulo": "\u00bfQu\u00e9 emociones crees que transmite el color rojo? ",
-    "indice": 282,
+    "indice": 280,
     "respuestas": [
       {
         "nombre": "Pasi\u00f3n y energ\u00eda",
@@ -5098,7 +5121,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE - COLOR",
     "titulo": "\u00bfCu\u00e1l de estos colores se asocia m\u00e1s con la tecnolog\u00eda? ",
-    "indice": 283,
+    "indice": 281,
     "respuestas": [
       {
         "nombre": "Verde",
@@ -5117,7 +5140,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE - COLOR",
     "titulo": "\u00bfCu\u00e1l de estos colores es menos adecuado para una marca relacionada con la salud? ",
-    "indice": 284,
+    "indice": 282,
     "respuestas": [
       {
         "nombre": "Rojo",
@@ -5136,7 +5159,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 IDENTIDAD VISUAL",
     "titulo": "\u00bfCu\u00e1l es el objetivo principal de la identidad visual de una marca? ",
-    "indice": 285,
+    "indice": 283,
     "respuestas": [
       {
         "nombre": "Crear un logotipo atracvo",
@@ -5155,7 +5178,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 IDENTIDAD VISUAL",
     "titulo": "\u00bfCu\u00e1l de estos elementos es parte de la identidad visual de una marca? a) Slogan ",
-    "indice": 286,
+    "indice": 284,
     "respuestas": [
       {
         "nombre": "Misi\u00f3n",
@@ -5170,7 +5193,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 IDENTIDAD VISUAL",
     "titulo": "\u00bfCu\u00e1l de estas marcas ene una identidad visual m\u00e1s minimalista? ",
-    "indice": 287,
+    "indice": 285,
     "respuestas": [
       {
         "nombre": "Coca-Cola",
@@ -5189,7 +5212,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE - TIPOGRAF\u00cdA",
     "titulo": "\u00bfQu\u00e9 significa la kerning en dise\u00f1o tipogr\u00e1fico? ",
-    "indice": 288,
+    "indice": 286,
     "respuestas": [
       {
         "nombre": "El espacio entre las letras",
@@ -5208,7 +5231,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE - TIPOGRAF\u00cdA",
     "titulo": "\u00bfCu\u00e1l de estos pos de letra es m\u00e1s adecuado para un libro de texto? ",
-    "indice": 289,
+    "indice": 287,
     "respuestas": [
       {
         "nombre": "Sans-serif",
@@ -5227,7 +5250,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 ARTE FINAL",
     "titulo": "\u00bfCu\u00e1l de estos formatos es adecuado para imprimir un cartel en gran formato?",
-    "indice": 290,
+    "indice": 288,
     "respuestas": [
       {
         "nombre": "JPEG",
@@ -5246,7 +5269,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 ARTE FINAL",
     "titulo": "\u00bfQu\u00e9 significa DPI en dise\u00f1o gr\u00e1fico? ",
-    "indice": 291,
+    "indice": 289,
     "respuestas": [
       {
         "nombre": "Dots per inch (puntos por pulgada)",
@@ -5265,7 +5288,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 ARTE FINAL",
     "titulo": "\u00bfCu\u00e1l de estos programas es m\u00e1s adecuado para dise\u00f1o vectorial? ",
-    "indice": 292,
+    "indice": 290,
     "respuestas": [
       {
         "nombre": "Adobe Photoshop",
@@ -5284,7 +5307,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 DISE\u00d1O DE LOGO",
     "titulo": "\u00bfCu\u00e1l de estos elementos no debe faltar en un buen dise\u00f1o de logo? ",
-    "indice": 293,
+    "indice": 291,
     "respuestas": [
       {
         "nombre": "Simplicidad",
@@ -5303,7 +5326,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 DISE\u00d1O DE LOGO",
     "titulo": "\u00bfCu\u00e1l de estos tipos de logos es m\u00e1s adecuado para una marca de lujo? ",
-    "indice": 294,
+    "indice": 292,
     "respuestas": [
       {
         "nombre": "Logo abstracto",
@@ -5322,7 +5345,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 DISE\u00d1O DE LOGO",
     "titulo": "\u00bfCu\u00e1l de estas marcas ha cambiado su logo recientemente? ",
-    "indice": 295,
+    "indice": 293,
     "respuestas": [
       {
         "nombre": "McDonald's",
@@ -5341,7 +5364,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 DISE\u00d1O PARA REDES SOCIALES",
     "titulo": "\u00bfCu\u00e1l de estos formatos es m\u00e1s adecuado para una publicaci\u00f3n en Instagram? ",
-    "indice": 296,
+    "indice": 294,
     "respuestas": [
       {
         "nombre": "JPEG",
@@ -5360,7 +5383,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 DISE\u00d1O PARA REDES SOCIALES",
     "titulo": "\u00bfCu\u00e1l de estas plataformas es m\u00e1s adecuada para publicar contenido visual? ",
-    "indice": 297,
+    "indice": 295,
     "respuestas": [
       {
         "nombre": "Twitter",
@@ -5379,7 +5402,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 DISE\u00d1O PARA REDES SOCIALES",
     "titulo": "\u00bfCu\u00e1l de estas t\u00e9cnicas se utiliza para aumentar la visibilidad de las publicaciones en redes sociales? ",
-    "indice": 298,
+    "indice": 296,
     "respuestas": [
       {
         "nombre": "Hashtags",
@@ -5398,7 +5421,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE - MOCKUPS",
     "titulo": "\u00bfCu\u00e1l de estas herramientas se utiliza para crear mockups? ",
-    "indice": 299,
+    "indice": 297,
     "respuestas": [
       {
         "nombre": "Adobe Illustrator",
@@ -5417,7 +5440,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE - MOCKUPS",
     "titulo": "\u00bfQu\u00e9 es un mockup? ",
-    "indice": 300,
+    "indice": 298,
     "respuestas": [
       {
         "nombre": "Una presentaci\u00f3n visual de un dise\u00f1o",
@@ -5436,7 +5459,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE - MOCKUPS",
     "titulo": "\u00bfCu\u00e1l de estos elementos se pueden representar en un mockup? ",
-    "indice": 301,
+    "indice": 299,
     "respuestas": [
       {
         "nombre": "Texto",
@@ -5455,7 +5478,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 SINTESIS GR\u00c1FICA",
     "titulo": "\u00bfCu\u00e1l de estos elementos se ulizan en una s\u00edntesis gr\u00e1fica? ",
-    "indice": 302,
+    "indice": 300,
     "respuestas": [
       {
         "nombre": "Colores",
@@ -5474,7 +5497,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 SINTESIS GR\u00c1FICA",
     "titulo": "\u00bfCu\u00e1l de estas t\u00e9cnicas se uliza para resumir informaci\u00f3n en una s\u00edntesis gr\u00e1fica? ",
-    "indice": 303,
+    "indice": 301,
     "respuestas": [
       {
         "nombre": "Infograf\u00edas",
@@ -5493,7 +5516,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 PAPELER\u00cdA Y AFICHES",
     "titulo": "\u00bfCu\u00e1l de estos elementos es importante en el dise\u00f1o de papeler\u00eda? ",
-    "indice": 304,
+    "indice": 302,
     "respuestas": [
       {
         "nombre": "Tama\u00f1o",
@@ -5512,7 +5535,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 PAPELER\u00cdA Y AFICHES",
     "titulo": "\u00bfCu\u00e1l de estos elementos no debe faltar en un buen dise\u00f1o de afiche? ",
-    "indice": 305,
+    "indice": 303,
     "respuestas": [
       {
         "nombre": "Texto claro y legible",
@@ -5531,7 +5554,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 PAPELER\u00cdA Y AFICHES",
     "titulo": "\u00bfCu\u00e1l de estos materiales es m\u00e1s adecuado para la impresi\u00f3n de papeler\u00eda? ",
-    "indice": 306,
+    "indice": 304,
     "respuestas": [
       {
         "nombre": "Cartulina",
@@ -5550,7 +5573,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 ICONOGRAF\u00cdA Y FUNCIONALIDAD DEL DISE\u00d1O",
     "titulo": "\u00bfCu\u00e1l de estos elementos se utilizan en la creaci\u00f3n de iconos? ",
-    "indice": 307,
+    "indice": 305,
     "respuestas": [
       {
         "nombre": "Formas geom\u00e9tricas",
@@ -5569,7 +5592,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 ICONOGRAF\u00cdA Y FUNCIONALIDAD DEL DISE\u00d1O",
     "titulo": "\u00bfCu\u00e1l de estas herramientas se utiliza para crear iconos? ",
-    "indice": 308,
+    "indice": 306,
     "respuestas": [
       {
         "nombre": "Adobe Illustrator",
@@ -5588,7 +5611,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 G\u00da\u00cdA DE DISE\u00d1O",
     "titulo": "\u00bfQu\u00e9 se debe incluir en una gu\u00eda de dise\u00f1o? ",
-    "indice": 309,
+    "indice": 307,
     "respuestas": [
       {
         "nombre": "Logotipo y paleta de colores",
@@ -5607,7 +5630,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 G\u00da\u00cdA DE DISE\u00d1O",
     "titulo": "\u00bfPara qu\u00e9 se utilizan las gu\u00edas de dise\u00f1o? ",
-    "indice": 310,
+    "indice": 308,
     "respuestas": [
       {
         "nombre": "Para mantener la coherencia visual de la marca",
@@ -5626,7 +5649,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 EQUILIBRIO EN EL DISE\u00d1O",
     "titulo": "\u00bfCu\u00e1l de estos tipos de equilibrio se utiliza en el dise\u00f1o? ",
-    "indice": 311,
+    "indice": 309,
     "respuestas": [
       {
         "nombre": "Equilibrio sim\u00e9trico",
@@ -5645,7 +5668,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 EQUILIBRIO EN EL DISE\u00d1O",
     "titulo": "\u00bfQu\u00e9 es el equilibrio en el dise\u00f1o? ",
-    "indice": 312,
+    "indice": 310,
     "respuestas": [
       {
         "nombre": "La distribuci\u00f3n equitativa de los elementos visuales en un dise\u00f1o",
@@ -5664,7 +5687,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS SOBRE DIRECCI\u00d3N DE ARTE \u2013 EQUILIBRIO EN EL DISE\u00d1O",
     "titulo": "\u00bfCu\u00e1l de estas t\u00e9cnicas se utiliza para crear un equilibrio asim\u00e9trico en el dise\u00f1o? ",
-    "indice": 313,
+    "indice": 311,
     "respuestas": [
       {
         "nombre": "El uso de diferentes tama\u00f1os y formas de elementos visuales",
@@ -5703,7 +5726,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la publicidad? ",
-    "indice": 314,
+    "indice": 312,
     "respuestas": [
       {
         "nombre": "La venta de productos y servicios",
@@ -5726,7 +5749,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfCu\u00e1l es el objetivo principal del marketing? ",
-    "indice": 315,
+    "indice": 313,
     "respuestas": [
       {
         "nombre": "Vender productos y servicios",
@@ -5749,7 +5772,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la segmentaci\u00f3n de mercado? ",
-    "indice": 316,
+    "indice": 314,
     "respuestas": [
       {
         "nombre": "La venta de productos y servicios a un solo cliente",
@@ -5772,7 +5795,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el posicionamiento en marketing? ",
-    "indice": 317,
+    "indice": 315,
     "respuestas": [
       {
         "nombre": "La forma en que los productos son producidos",
@@ -5795,7 +5818,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el embudo de conversi\u00f3n o funnel de ventas?",
-    "indice": 318,
+    "indice": 316,
     "respuestas": [
       {
         "nombre": "Un proceso que describe c\u00f3mo los consumidores se convierten en clientes",
@@ -5818,7 +5841,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la publicidad nativa? ",
-    "indice": 319,
+    "indice": 317,
     "respuestas": [
       {
         "nombre": "Un tipo de publicidad que se realiza en televisi\u00f3n",
@@ -5841,10 +5864,10 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de contenidos?",
-    "indice": 320,
+    "indice": 318,
     "respuestas": [
       {
-        "nombre": "Un tipo de marketing que se enfoca en crear contenido relevante y valioso para atraer y retener a un p\u00fablico objetivo.",
+        "nombre": "Un tipo de marketing que se enfoca en crear contenido relevante y valioso para atraer y retener a un p\u00fablico objetivo",
         "correcta": true
       },
       {
@@ -5864,7 +5887,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la segmentaci\u00f3n geogr\u00e1fica? ",
-    "indice": 321,
+    "indice": 319,
     "respuestas": [
       {
         "nombre": "La segmentaci\u00f3n de un mercado basada en el nivel de ingresos de los consumidores",
@@ -5887,7 +5910,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el copywriting? ",
-    "indice": 322,
+    "indice": 320,
     "respuestas": [
       {
         "nombre": "La creaci\u00f3n de im\u00e1genes para promocionar productos y servicios",
@@ -5910,7 +5933,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing viral? ",
-    "indice": 323,
+    "indice": 321,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en crear campa\u00f1as publicitarias en redes sociales",
@@ -5933,7 +5956,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de influencers? ",
-    "indice": 324,
+    "indice": 322,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en crear campa\u00f1as publicitarias en televisi\u00f3n",
@@ -5976,7 +5999,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la marca personal? ",
-    "indice": 325,
+    "indice": 323,
     "respuestas": [
       {
         "nombre": "La marca que representa a una empresa",
@@ -5999,7 +6022,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de permiso? ",
-    "indice": 326,
+    "indice": 324,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de productos nuevos",
@@ -6022,18 +6045,14 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de contenidos? ",
-    "indice": 327,
+    "indice": 325,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
         "correcta": false
       },
       {
-        "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n y distribuci\u00f3n de",
-        "correcta": true
-      },
-      {
-        "nombre": "contenido relevante y valioso para atraer a una audiencia espec\u00edfica",
+        "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n y distribuci\u00f3n de contenido relevante y valioso para atraer a una audiencia espec\u00edfica",
         "correcta": true
       },
       {
@@ -6049,7 +6068,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el posicionamiento en marketing? ",
-    "indice": 328,
+    "indice": 326,
     "respuestas": [
       {
         "nombre": "La forma en que un producto o servicio se coloca en una tienda",
@@ -6072,14 +6091,10 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing mix? ",
-    "indice": 329,
+    "indice": 327,
     "respuestas": [
       {
-        "nombre": "El conjunto de elementos que componen la estrategia de marketing de una",
-        "correcta": true
-      },
-      {
-        "nombre": "empresa",
+        "nombre": "El conjunto de elementos que componen la estrategia de marketing de una empresa",
         "correcta": true
       },
       {
@@ -6099,14 +6114,10 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el an\u00e1lisis DAFO? ",
-    "indice": 330,
+    "indice": 328,
     "respuestas": [
       {
-        "nombre": "Un an\u00e1lisis que permite identificar las debilidades, amenazas, fortalezas y",
-        "correcta": true
-      },
-      {
-        "nombre": "oportunidades de una empresa",
+        "nombre": "Un an\u00e1lisis que permite identificar las debilidades, amenazas, fortalezas y oportunidades de una empresa",
         "correcta": true
       },
       {
@@ -6126,7 +6137,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la publicidad nativa? ",
-    "indice": 331,
+    "indice": 329,
     "respuestas": [
       {
         "nombre": "Un tipo de publicidad que se utiliza en televisi\u00f3n",
@@ -6149,18 +6160,14 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de guerrilla? ",
-    "indice": 332,
+    "indice": 330,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
         "correcta": false
       },
       {
-        "nombre": "Un tipo de marketing que se enfoca en la utilizaci\u00f3n de t\u00e1cticas creativas e",
-        "correcta": true
-      },
-      {
-        "nombre": "inesperadas para llamar la atenci\u00f3n de los consumidores",
+        "nombre": "Un tipo de marketing que se enfoca en la utilizaci\u00f3n de t\u00e1cticas creativas e inesperadas para llamar la atenci\u00f3n de los consumidores",
         "correcta": true
       },
       {
@@ -6176,14 +6183,10 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la publicidad comparativa? ",
-    "indice": 333,
+    "indice": 331,
     "respuestas": [
       {
-        "nombre": "Un tipo de publicidad que compara los productos de dos o m\u00e1s empresas",
-        "correcta": true
-      },
-      {
-        "nombre": "directamente",
+        "nombre": "Un tipo de publicidad que compara los productos de dos o m\u00e1s empresas directamente",
         "correcta": true
       },
       {
@@ -6203,18 +6206,14 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing directo? ",
-    "indice": 334,
+    "indice": 332,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
         "correcta": false
       },
       {
-        "nombre": "Un tipo de marketing que se enfoca en llegar directamente al consumidor",
-        "correcta": true
-      },
-      {
-        "nombre": "mediante correo, correo electr\u00f3nico, tel\u00e9fono u otros medios",
+        "nombre": "Un tipo de marketing que se enfoca en llegar directamente al consumidor mediante correo, correo electr\u00f3nico, tel\u00e9fono u otros medios",
         "correcta": true
       },
       {
@@ -6230,7 +6229,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de afiliaci\u00f3n? ",
-    "indice": 335,
+    "indice": 333,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
@@ -6241,21 +6240,20 @@
         "correcta": false
       },
       {
-        "nombre": "Un tipo de marketing que se enfoca en la promoci\u00f3n de productos y servicios mediante la asociaci\u00f3n con sitios web o blogs que promueven productos o",
-        "correcta": true
-      },
-      {
-        "nombre": "servicios similares",
+        "nombre": "Un tipo de marketing que se enfoca en la promoci\u00f3n de productos y servicios mediante la asociaci\u00f3n con sitios web o blogs que promueven productos o servicios similares",
         "correcta": true
       },
       {
         "nombre": "Ninguna de las anteriores",
         "correcta": false
-      },
-      {
-        "nombre": "\u00bfQu\u00e9 es el copywriting?",
-        "correcta": false
-      },
+      }
+    ]
+  },
+  {
+    "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
+    "titulo": "\u00bfQu\u00e9 es el copywriting?",
+    "indice": 334,
+    "respuestas": [
       {
         "nombre": "La t\u00e9cnica de escribir copias publicitarias efectivas",
         "correcta": true
@@ -6277,18 +6275,14 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el marketing de experiencia? ",
-    "indice": 336,
+    "indice": 335,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en la creaci\u00f3n de campa\u00f1as publicitarias en televisi\u00f3n",
         "correcta": false
       },
       {
-        "nombre": "Un tipo de marketing que se enfoca en ofrecer una experiencia \u00fanica y",
-        "correcta": true
-      },
-      {
-        "nombre": "memorable al consumidor",
+        "nombre": "Un tipo de marketing que se enfoca en ofrecer una experiencia \u00fanica y memorable al consumidor",
         "correcta": true
       },
       {
@@ -6304,7 +6298,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la segmentaci\u00f3n de mercado? ",
-    "indice": 337,
+    "indice": 336,
     "respuestas": [
       {
         "nombre": "El proceso de dividir el mercado en grupos de consumidores con necesidades y deseos similares",
@@ -6327,14 +6321,10 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es la tasa de conversi\u00f3n? ",
-    "indice": 338,
+    "indice": 337,
     "respuestas": [
       {
-        "nombre": "La cantidad de personas que realizan una acci\u00f3n deseada, como hacer una compra o suscribirse a una lista de correo electr\u00f3nico, en relaci\u00f3n con el",
-        "correcta": true
-      },
-      {
-        "nombre": "n\u00famero de visitantes de una p\u00e1gina web",
+        "nombre": "La cantidad de personas que realizan una acci\u00f3n deseada, como hacer una compra o suscribirse a una lista de correo electr\u00f3nico, en relaci\u00f3n con el n\u00famero de visitantes de una p\u00e1gina web",
         "correcta": true
       },
       {
@@ -6354,7 +6344,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el remarketing? ",
-    "indice": 339,
+    "indice": 338,
     "respuestas": [
       {
         "nombre": "Un tipo de marketing que se enfoca en llegar directamente al consumidor mediante correo, correo electr\u00f3nico, tel\u00e9fono u otros medios",
@@ -6365,11 +6355,7 @@
         "correcta": false
       },
       {
-        "nombre": "Un tipo de marketing que se enfoca en la publicidad a las personas que ya",
-        "correcta": true
-      },
-      {
-        "nombre": "han interactuado con un sitio web o una aplicaci\u00f3n m\u00f3vil",
+        "nombre": "Un tipo de marketing que se enfoca en la publicidad a las personas que ya han interactuado con un sitio web o una aplicaci\u00f3n m\u00f3vil",
         "correcta": true
       },
       {
@@ -6381,7 +6367,7 @@
   {
     "seccion": "BANCO DE PREGUNTAS PUBLICIDAD Y MARKETING ",
     "titulo": "\u00bfQu\u00e9 es el CTR? ",
-    "indice": 340,
+    "indice": 339,
     "respuestas": [
       {
         "nombre": "La cantidad de personas que visitan una p\u00e1gina web",
@@ -6392,11 +6378,7 @@
         "correcta": false
       },
       {
-        "nombre": "La cantidad de personas que hacen clic en un enlace en una campa\u00f1a de correo electr\u00f3nico en relaci\u00f3n con el n\u00famero de personas que reciben el",
-        "correcta": true
-      },
-      {
-        "nombre": "correo electr\u00f3nico",
+        "nombre": "La cantidad de personas que hacen clic en un enlace en una campa\u00f1a de correo electr\u00f3nico en relaci\u00f3n con el n\u00famero de personas que reciben el correo electr\u00f3nico",
         "correcta": true
       },
       {
@@ -6408,7 +6390,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la infograf\u00eda editorial? ",
-    "indice": 341,
+    "indice": 340,
     "respuestas": [
       {
         "nombre": "Una imagen est\u00e1tica.",
@@ -6427,7 +6409,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 funci\u00f3n cumple la infograf\u00eda en el periodismo gr\u00e1fico? ",
-    "indice": 342,
+    "indice": 341,
     "respuestas": [
       {
         "nombre": "Hacer m\u00e1s atractiva la p\u00e1gina.",
@@ -6446,7 +6428,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la investigaci\u00f3n en el dise\u00f1o?",
-    "indice": 343,
+    "indice": 342,
     "respuestas": [
       {
         "nombre": "Una t\u00e9cnica para dise\u00f1ar sin una estrategia clara.",
@@ -6465,7 +6447,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el periodismo visual? ",
-    "indice": 344,
+    "indice": 343,
     "respuestas": [
       {
         "nombre": "La pr\u00e1ctica de presentar informaci\u00f3n a trav\u00e9s de im\u00e1genes y gr\u00e1ficos.",
@@ -6484,7 +6466,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el dise\u00f1o de textos? ",
-    "indice": 345,
+    "indice": 344,
     "respuestas": [
       {
         "nombre": "La elecci\u00f3n de la tipograf\u00eda para un texto.",
@@ -6503,7 +6485,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfCu\u00e1l es el prop\u00f3sito del dise\u00f1o de p\u00e1rrafos? ",
-    "indice": 346,
+    "indice": 345,
     "respuestas": [
       {
         "nombre": "Hacer que el texto se vea m\u00e1s largo.",
@@ -6522,7 +6504,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la iconograf\u00eda? ",
-    "indice": 347,
+    "indice": 346,
     "respuestas": [
       {
         "nombre": "El estudio de las formas de comunicaci\u00f3n a trav\u00e9s de im\u00e1genes.",
@@ -6541,7 +6523,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la se\u00f1al\u00e9tica? ",
-    "indice": 348,
+    "indice": 347,
     "respuestas": [
       {
         "nombre": "Un dise\u00f1o utilizado para se\u00f1alar lugares de inter\u00e9s.",
@@ -6560,7 +6542,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfCu\u00e1l es la funci\u00f3n del dise\u00f1o de mapas? ",
-    "indice": 349,
+    "indice": 348,
     "respuestas": [
       {
         "nombre": "Hacer que la p\u00e1gina se vea m\u00e1s interesante.",
@@ -6579,7 +6561,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el uso de la tipograf\u00eda? ",
-    "indice": 350,
+    "indice": 349,
     "respuestas": [
       {
         "nombre": "La elecci\u00f3n de diferentes estilos de letra para hacer m\u00e1s atractivo un dise\u00f1o.",
@@ -6598,7 +6580,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el espacio en blanco en el dise\u00f1o? ",
-    "indice": 351,
+    "indice": 350,
     "respuestas": [
       {
         "nombre": "El espacio que se deja sin utilizar en un dise\u00f1o.",
@@ -6617,7 +6599,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfCu\u00e1l es la funci\u00f3n de la composici\u00f3n visual? ",
-    "indice": 352,
+    "indice": 351,
     "respuestas": [
       {
         "nombre": "Organizar los elementos en un dise\u00f1o para que se vea m\u00e1s atractivo.",
@@ -6636,7 +6618,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es el contraste en un dise\u00f1o? ",
-    "indice": 353,
+    "indice": 352,
     "respuestas": [
       {
         "nombre": "La similitud de elementos en un dise\u00f1o.",
@@ -6655,7 +6637,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfCu\u00e1l es una funci\u00f3n del color en la comunicaci\u00f3n visual? ",
-    "indice": 354,
+    "indice": 353,
     "respuestas": [
       {
         "nombre": "Hacer que el dise\u00f1o se vea m\u00e1s atractivo.",
@@ -6674,7 +6656,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": " \u00bfQu\u00e9 es un dise\u00f1o equilibrado de gr\u00e1ficos? ",
-    "indice": 355,
+    "indice": 354,
     "respuestas": [
       {
         "nombre": "Un dise\u00f1o donde todos los elementos son iguales.",
@@ -6692,9 +6674,13 @@
   },
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
-    "titulo": "\u00bfQu\u00e9 tipo de gr\u00e1fico es el m\u00e1s adecuado para mostrar cambios a lo largo del tiempo? Gr\u00e1fico de barras. ",
-    "indice": 356,
+    "titulo": "\u00bfQu\u00e9 tipo de gr\u00e1fico es el m\u00e1s adecuado para mostrar cambios a lo largo del tiempo? ",
+    "indice": 355,
     "respuestas": [
+      {
+        "nombre": "Gr\u00e1fico de barras.",
+        "correcta": false
+      },
       {
         "nombre": "Gr\u00e1fico de fiebre o l\u00ednea.",
         "correcta": true
@@ -6708,7 +6694,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 tipo de gr\u00e1fico es el m\u00e1s adecuado para mostrar la proporci\u00f3n de diferentes elementos en un todo? ",
-    "indice": 357,
+    "indice": 356,
     "respuestas": [
       {
         "nombre": "Gr\u00e1fico de barras",
@@ -6727,7 +6713,7 @@
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
     "titulo": "\u00bfQu\u00e9 es la regla del tercio en el dise\u00f1o gr\u00e1fico? ",
-    "indice": 358,
+    "indice": 357,
     "respuestas": [
       {
         "nombre": "Una gu\u00eda que ayuda a equilibrar los elementos visuales en el dise\u00f1o.",
@@ -6738,9 +6724,16 @@
         "correcta": false
       },
       {
-        "nombre": "Una regla que establece que los elementos visuales deben estar organizados en tercios. \u00bfQu\u00e9 es el espacio negativo en el dise\u00f1o gr\u00e1fico?",
+        "nombre": "Una regla que establece que los elementos visuales deben estar organizados en tercios.",
         "correcta": true
-      },
+      }
+    ]
+  },
+  {
+    "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL ",
+    "titulo": "\u00bfQu\u00e9 es el espacio negativo en el dise\u00f1o gr\u00e1fico? ",
+    "indice": 358,
+    "respuestas": [
       {
         "nombre": "El espacio que rodea los elementos visuales en un dise\u00f1o.",
         "correcta": true
@@ -6852,9 +6845,13 @@
   },
   {
     "seccion": "PREGUNTAS DE INFOGRAF\u00cdA EDITORIAL \u2013 COLOR EN EL DISE\u00d1O DE INFOGRAF\u00cdAS",
-    "titulo": "\u00bfQu\u00e9 color se utiliza a menudo para representar la inocencia y la pureza? Blanco ",
+    "titulo": "\u00bfQu\u00e9 color se utiliza a menudo para representar la inocencia y la pureza? ",
     "indice": 364,
     "respuestas": [
+      {
+        "nombre": "Blanco",
+        "correcta": true
+      },
       {
         "nombre": "Negro",
         "correcta": false
@@ -7399,7 +7396,7 @@
     "indice": 393,
     "respuestas": [
       {
-        "nombre": "Invenci\u00f3n.",
+        "nombre": "Invenci\u00f3n",
         "correcta": false
       },
       {
@@ -7409,17 +7406,20 @@
       {
         "nombre": "Elocuci\u00f3n",
         "correcta": true
-      },
-      {
-        "nombre": "Las caracter\u00edsticas de la redacci\u00f3n publicitaria son",
-        "correcta": true
-      },
+      }
+    ]
+  },
+  {
+    "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
+    "titulo": "Las caracter\u00edsticas de la redacci\u00f3n publicitaria son  ",
+    "indice": 394,
+    "respuestas": [
       {
         "nombre": "Correcci\u00f3n y adaptaci\u00f3n",
         "correcta": false
       },
       {
-        "nombre": "Correcci\u00f3n, adaptaci\u00f3n y eficacia. Respuesta correcta",
+        "nombre": "Correcci\u00f3n, adaptaci\u00f3n y eficacia",
         "correcta": true
       },
       {
@@ -7431,7 +7431,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "____________ se consigue cuando se cuida la ortograf\u00eda, la gram\u00e1tica (morfolog\u00eda y sintaxis) y el l\u00e9xico del enunciado publicitario. ",
-    "indice": 394,
+    "indice": 395,
     "respuestas": [
       {
         "nombre": "Adaptaci\u00f3n",
@@ -7450,7 +7450,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "La ________________deriva de acomodar el texto a la campa\u00f1a que se quiere realizar y que concierne, sobre todo, al estilo. No es lo mismo, en este sentido, redactar un texto para campa\u00f1a publicitaria de un diccionario de la Real Academia Espa\u00f1ola que escribirlo para otra en a que se da a conocer una marca de jeans para j\u00f3venes. ",
-    "indice": 395,
+    "indice": 396,
     "respuestas": [
       {
         "nombre": "Correcci\u00f3n",
@@ -7469,7 +7469,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En la publicidad la ________________ es fundamental, puesto que, si no se logra alcanzar la persuasi\u00f3n, y por consiguiente la venta; la campa\u00f1a habr\u00e1 resultado infructuosa. ",
-    "indice": 396,
+    "indice": 397,
     "respuestas": [
       {
         "nombre": "Correcci\u00f3n",
@@ -7488,7 +7488,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Actitudes del Proceso Creativo seg\u00fan Bassat  ",
-    "indice": 397,
+    "indice": 398,
     "respuestas": [
       {
         "nombre": "Definici\u00f3n del problema, An\u00e1lisis de las causas, Planteamiento de las posibles soluciones, Opci\u00f3n para la mejor soluci\u00f3n",
@@ -7507,7 +7507,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En las FASES DEL PROCESO CREATIVO si hablamos de PREPARACI\u00d3N nos estamos refiriendo a  ",
-    "indice": 398,
+    "indice": 399,
     "respuestas": [
       {
         "nombre": "Recopilaci\u00f3n de datos",
@@ -7526,7 +7526,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En las FASES DEL PROCESO CREATIVO si hablamos de INCUBACI\u00d3N nos estamos refiriendo a  ",
-    "indice": 399,
+    "indice": 400,
     "respuestas": [
       {
         "nombre": "Recopilaci\u00f3n de datos.",
@@ -7545,7 +7545,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En las FASES DEL PROCESO CREATIVO si hablamos de ELABORACI\u00d3N nos estamos refiriendo a  ",
-    "indice": 400,
+    "indice": 401,
     "respuestas": [
       {
         "nombre": "Recopilaci\u00f3n de datos.",
@@ -7564,7 +7564,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "En las FASES DEL PROCESO CREATIVO si hablamos de EVALUACI\u00d3N nos estamos refiriendo a  ",
-    "indice": 401,
+    "indice": 402,
     "respuestas": [
       {
         "nombre": "Recopilaci\u00f3n de datos.",
@@ -7583,7 +7583,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Entre las funciones que se le asignan al redactor creativo, tenemos  ",
-    "indice": 402,
+    "indice": 403,
     "respuestas": [
       {
         "nombre": "funci\u00f3n estrat\u00e9gica",
@@ -7602,7 +7602,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Entre las funciones que se le asignan al redactor creativo, tenemos  ",
-    "indice": 403,
+    "indice": 404,
     "respuestas": [
       {
         "nombre": "funci\u00f3n redaccional",
@@ -7621,7 +7621,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Las figuras retoricas utilizadas en la publicidad se clasifican en  ",
-    "indice": 404,
+    "indice": 405,
     "respuestas": [
       {
         "nombre": "Sem\u00e1nticas y morfol\u00f3gicas",
@@ -7640,7 +7640,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Las tipolog\u00edas textuales se clasifican en  ",
-    "indice": 405,
+    "indice": 406,
     "respuestas": [
       {
         "nombre": "Narrativas y descriptivas",
@@ -7659,7 +7659,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Para escribir en redes sociales se debe tomar en cuenta estos tres elementos  ",
-    "indice": 406,
+    "indice": 407,
     "respuestas": [
       {
         "nombre": "Tono, persuasi\u00f3n y brevedad",
@@ -7678,7 +7678,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Los tipos de brief que existen son  ",
-    "indice": 407,
+    "indice": 408,
     "respuestas": [
       {
         "nombre": "El creativo y de marketing",
@@ -7697,7 +7697,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Los Pilares de Contenido son los siguientes  ",
-    "indice": 408,
+    "indice": 409,
     "respuestas": [
       {
         "nombre": "Contenido de Valor y Promocional",
@@ -7716,7 +7716,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Cuando nos referimos a contenido relacionado a tips, consejos o tutoriales de c\u00f3mo utilizar de mejor manera el producto o servicio, estamos hablando de  ",
-    "indice": 409,
+    "indice": 410,
     "respuestas": [
       {
         "nombre": "Contenido de Valor",
@@ -7735,7 +7735,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Tipos de texto aplicados a la Publicidad son  ",
-    "indice": 410,
+    "indice": 411,
     "respuestas": [
       {
         "nombre": "Narrativos, descriptivos, expositivos y argumentativos",
@@ -7754,7 +7754,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "El texto narrativo se refiere  ",
-    "indice": 411,
+    "indice": 412,
     "respuestas": [
       {
         "nombre": "Persuadir a trav\u00e9s de historias",
@@ -7773,7 +7773,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Tipos de T\u00edtulo Publicitario son  ",
-    "indice": 412,
+    "indice": 413,
     "respuestas": [
       {
         "nombre": "Informativos, selectivos, de intriga e imperativos",
@@ -7792,7 +7792,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Juan Rey considera (1999) que las caracter\u00edsticas del eslogan son  ",
-    "indice": 413,
+    "indice": 414,
     "respuestas": [
       {
         "nombre": "Breve, simple, conciso, brillante, f\u00e1cil de recordar",
@@ -7811,7 +7811,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Las Figuras Ret\u00f3ricas en la Publicidad se clasifican en  ",
-    "indice": 414,
+    "indice": 415,
     "respuestas": [
       {
         "nombre": "Fon\u00e9ticas, morfol\u00f3gicas, sint\u00e1cticas, sem\u00e1nticas y l\u00f3gicas",
@@ -7830,7 +7830,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "Clara, cristalina, refrescante\u2026 \u00a1Vamos adelante! 7Up. Es un ejemplo de_ ",
-    "indice": 415,
+    "indice": 416,
     "respuestas": [
       {
         "nombre": "Rima",
@@ -7849,7 +7849,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "La cola m\u00e1s grande del mercado, grande en sabor, grande en tama\u00f1o. BIG COLA. Es un ejemplo de  ",
-    "indice": 416,
+    "indice": 417,
     "respuestas": [
       {
         "nombre": "Hip\u00e9rbole",
@@ -7860,7 +7860,7 @@
         "correcta": false
       },
       {
-        "nombre": "Ninguna de las anteriores.",
+        "nombre": "Ninguna de las anteriores",
         "correcta": false
       }
     ]
@@ -7868,7 +7868,7 @@
   {
     "seccion": "REDACCI\u00d3N CREATIVA (MKT DIG)/RED. PUBLICITARIA (DIS PUB) ",
     "titulo": "La redacci\u00f3n publicitaria en redes sociales requiere de  ",
-    "indice": 417,
+    "indice": 418,
     "respuestas": [
       {
         "nombre": "Hacer que tu copy trabaje con im\u00e1genes.",
@@ -7887,7 +7887,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es el branding? ",
-    "indice": 418,
+    "indice": 419,
     "respuestas": [
       {
         "nombre": "Es el proceso de creaci\u00f3n de un logotipo para una empresa.",
@@ -7906,7 +7906,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1les son los diferentes tipos de logos? ",
-    "indice": 419,
+    "indice": 420,
     "respuestas": [
       {
         "nombre": "Logotipo, imagotipo y slogan.",
@@ -7925,7 +7925,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un imagotipo? ",
-    "indice": 420,
+    "indice": 421,
     "respuestas": [
       {
         "nombre": "Es una imagen que representa un concepto abstracto.",
@@ -7944,7 +7944,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfC\u00f3mo se construye la identidad visual de una marca? ",
-    "indice": 421,
+    "indice": 422,
     "respuestas": [
       {
         "nombre": "Definiendo el p\u00fablico objetivo y la competencia.",
@@ -7963,7 +7963,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 contiene gr\u00e1ficamente una marca compuesta? ",
-    "indice": 422,
+    "indice": 423,
     "respuestas": [
       {
         "nombre": "Un logotipo y un eslogan.",
@@ -7982,7 +7982,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es la secuencia de la cognici\u00f3n? ",
-    "indice": 423,
+    "indice": 424,
     "respuestas": [
       {
         "nombre": "El proceso mediante el cual se adquiere conocimiento.",
@@ -8001,7 +8001,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1les son los diferentes tipos de empaque? ",
-    "indice": 424,
+    "indice": 425,
     "respuestas": [
       {
         "nombre": "Primario, secundario y terciario.",
@@ -8020,7 +8020,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1l es la diferencia entre empaque y envase? ",
-    "indice": 425,
+    "indice": 426,
     "respuestas": [
       {
         "nombre": "No hay diferencia, ambos t\u00e9rminos se refieren al mismo concepto.",
@@ -8039,7 +8039,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un troquel? ",
-    "indice": 426,
+    "indice": 427,
     "respuestas": [
       {
         "nombre": "Una herramienta para cortar papel y cart\u00f3n con formas espec\u00edficas.",
@@ -8058,7 +8058,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es impresi\u00f3n offset? ",
-    "indice": 427,
+    "indice": 428,
     "respuestas": [
       {
         "nombre": "Una t\u00e9cnica de impresi\u00f3n en relieve.",
@@ -8077,7 +8077,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1l es el tipo de impresi\u00f3n para pl\u00e1sticos? ",
-    "indice": 428,
+    "indice": 429,
     "respuestas": [
       {
         "nombre": "Serigraf\u00eda.",
@@ -8096,7 +8096,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfPara qu\u00e9 sirve un mood board? ",
-    "indice": 429,
+    "indice": 430,
     "respuestas": [
       {
         "nombre": "Para planificar una estrategia de marketing.",
@@ -8115,7 +8115,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un Key Visual? ",
-    "indice": 430,
+    "indice": 431,
     "respuestas": [
       {
         "nombre": "Es el elemento visual principal de una campa\u00f1a publicitaria.",
@@ -8134,7 +8134,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es una campa\u00f1a publicitaria? ",
-    "indice": 431,
+    "indice": 432,
     "respuestas": [
       {
         "nombre": "Un conjunto de anuncios publicitarios que se difunden en diferentes medios para promocionar un producto o servicio durante un periodo determinado.",
@@ -8153,7 +8153,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1ntas piezas debe contener una campa\u00f1a publicitaria? ",
-    "indice": 432,
+    "indice": 433,
     "respuestas": [
       {
         "nombre": "Depende del presupuesto de la empresa.",
@@ -8172,7 +8172,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es una estrategia de campa\u00f1a? ",
-    "indice": 433,
+    "indice": 434,
     "respuestas": [
       {
         "nombre": "Es el conjunto de acciones y decisiones que se planifican para alcanzar los objetivos de una campa\u00f1a publicitaria.",
@@ -8191,7 +8191,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfC\u00f3mo se hace un copy creativo? ",
-    "indice": 434,
+    "indice": 435,
     "respuestas": [
       {
         "nombre": "Se recopila informaci\u00f3n del cliente y se escribe un texto persuasivo que capte la atenci\u00f3n del p\u00fablico objetivo.",
@@ -8210,7 +8210,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1l es la diferencia entre slogan y copy? ",
-    "indice": 435,
+    "indice": 436,
     "respuestas": [
       {
         "nombre": "El slogan es un texto corto que resume la idea principal de una campa\u00f1a publicitaria, mientras que el copy es un texto m\u00e1s extenso que busca persuadir al p\u00fablico objetivo.",
@@ -8229,7 +8229,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un insight y para qu\u00e9 sirve? ",
-    "indice": 436,
+    "indice": 437,
     "respuestas": [
       {
         "nombre": "Es una idea creativa para una campa\u00f1a publicitaria. Sirve para generar empat\u00eda con el p\u00fablico objetivo.",
@@ -8248,7 +8248,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfDe qu\u00e9 se encarga el dise\u00f1ador gr\u00e1fico dentro del proceso de una campa\u00f1a? ",
-    "indice": 437,
+    "indice": 438,
     "respuestas": [
       {
         "nombre": "De la planificaci\u00f3n de la estrategia de comunicaci\u00f3n.",
@@ -8267,7 +8267,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1les son los elementos que componen la creaci\u00f3n de un Key Visual? ",
-    "indice": 438,
+    "indice": 439,
     "respuestas": [
       {
         "nombre": "Imagen, slogan y copy.",
@@ -8286,7 +8286,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfCu\u00e1l es la diferencia entre una campa\u00f1a publicitaria social y una campa\u00f1a publicitaria comercial? ",
-    "indice": 439,
+    "indice": 440,
     "respuestas": [
       {
         "nombre": "Una campa\u00f1a publicitaria social tiene como objetivo promover un cambio social, mientras que una campa\u00f1a publicitaria comercial tiene como objetivo vender productos o servicios.",
@@ -8305,7 +8305,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es una figura ret\u00f3rica? ",
-    "indice": 440,
+    "indice": 441,
     "respuestas": [
       {
         "nombre": "Un recurso literario que se utiliza para crear efectos po\u00e9ticos o estil\u00edsticos en el lenguaje.",
@@ -8324,7 +8324,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es la met\u00e1fora publicitaria y c\u00f3mo se emplea en la gr\u00e1fica? ",
-    "indice": 441,
+    "indice": 442,
     "respuestas": [
       {
         "nombre": "Una figura ret\u00f3rica que compara dos elementos diferentes para transmitir un mensaje publicitario de manera creativa.",
@@ -8347,7 +8347,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un s\u00edmbolo y c\u00f3mo se utiliza en la publicidad? ",
-    "indice": 442,
+    "indice": 443,
     "respuestas": [
       {
         "nombre": "Una palabra o frase breve y pegadiza que resume la identidad de una marca.",
@@ -8366,7 +8366,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es una sin\u00e9cdoque publicitaria? ",
-    "indice": 443,
+    "indice": 444,
     "respuestas": [
       {
         "nombre": "Una figura ret\u00f3rica que utiliza una parte de algo para representar el todo.",
@@ -8385,7 +8385,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 muestra la ant\u00edtesis dentro de la composici\u00f3n de un anuncio publicitario? ",
-    "indice": 444,
+    "indice": 445,
     "respuestas": [
       {
         "nombre": "La relaci\u00f3n de opuestos para resaltar las caracter\u00edsticas de un producto o servicio.",
@@ -8404,7 +8404,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es la semi\u00f3tica publicitaria? ",
-    "indice": 445,
+    "indice": 446,
     "respuestas": [
       {
         "nombre": "El estudio de los signos y s\u00edmbolos en la publicidad y c\u00f3mo afectan al consumidor.",
@@ -8423,7 +8423,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 hace que un s\u00edmbolo sea reconocible y por qu\u00e9 se utilizan en la publicidad? ",
-    "indice": 446,
+    "indice": 447,
     "respuestas": [
       {
         "nombre": "Su simplicidad y capacidad de identificar una marca de manera r\u00e1pida y efectiva.",
@@ -8442,7 +8442,7 @@
   {
     "seccion": "PROFESORA  XIONARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO PUBLICITARIO",
     "titulo": "\u00bfQu\u00e9 es un concepto creativo? ",
-    "indice": 447,
+    "indice": 448,
     "respuestas": [
       {
         "nombre": "La idea principal detr\u00e1s de una campa\u00f1a publicitaria que comunica el mensaje de la marca.",
@@ -8461,7 +8461,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el Art Noveau? ",
-    "indice": 448,
+    "indice": 449,
     "respuestas": [
       {
         "nombre": "Un movimiento art\u00edstico de principios del siglo XX que se caracteriza por sus formas curvas y l\u00edneas sinuosas",
@@ -8480,7 +8480,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el Estilo Alem\u00e1n? ",
-    "indice": 449,
+    "indice": 450,
     "respuestas": [
       {
         "nombre": "Un estilo de dise\u00f1o que se caracteriza por la simplicidad, la funcionalidad y la claridad",
@@ -8499,7 +8499,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1ndo surge la imprenta y por qu\u00e9? ",
-    "indice": 450,
+    "indice": 451,
     "respuestas": [
       {
         "nombre": "Surge en el siglo XV gracias a la invenci\u00f3n de la imprenta de tipos m\u00f3viles por parte de Johannes Gutenberg",
@@ -8518,7 +8518,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el balance y para qu\u00e9 sirve? ",
-    "indice": 451,
+    "indice": 452,
     "respuestas": [
       {
         "nombre": "Es la distribuci\u00f3n visual de elementos en un dise\u00f1o para crear una sensaci\u00f3n de estabilidad y armon\u00eda",
@@ -8537,7 +8537,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1l es la funci\u00f3n de las figuras org\u00e1nicas en el dise\u00f1o? ",
-    "indice": 452,
+    "indice": 453,
     "respuestas": [
       {
         "nombre": "Agregar un aspecto natural y suave a un dise\u00f1o",
@@ -8550,17 +8550,13 @@
       {
         "nombre": "Agregar un aspecto ca\u00f3tico y desordenado a un dise\u00f1o",
         "correcta": false
-      },
-      {
-        "nombre": "Respuesta correcta  a) Agregar un aspecto natural y suave a un dise\u00f1o",
-        "correcta": false
       }
     ]
   },
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es una tipograf\u00eda con serif? ",
-    "indice": 453,
+    "indice": 454,
     "respuestas": [
       {
         "nombre": "Una tipograf\u00eda con detalles decorativos en los extremos de las letras",
@@ -8579,7 +8575,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el counter dentro del dise\u00f1o de una tipograf\u00eda? ",
-    "indice": 454,
+    "indice": 455,
     "respuestas": [
       {
         "nombre": "El espacio en blanco que se encuentra dentro de una letra",
@@ -8598,7 +8594,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es una familia tipogr\u00e1fica? ",
-    "indice": 455,
+    "indice": 456,
     "respuestas": [
       {
         "nombre": "Un conjunto de fuentes que tienen un estilo y dise\u00f1o similar",
@@ -8617,7 +8613,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1l de estos conceptos corresponde a la psicolog\u00eda del color? ",
-    "indice": 456,
+    "indice": 457,
     "respuestas": [
       {
         "nombre": "La composici\u00f3n visual de un dise\u00f1o",
@@ -8636,7 +8632,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfDiferencie entre los conceptos de armon\u00eda y contraste? ",
-    "indice": 457,
+    "indice": 458,
     "respuestas": [
       {
         "nombre": "La armon\u00eda se refiere a la combinaci\u00f3n de elementos similares en un dise\u00f1o, mientras que el contraste se refiere a la combinaci\u00f3n de elementos diferentes en un dise\u00f1o",
@@ -8655,7 +8651,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 evocan psicol\u00f3gicamente los colores c\u00e1lidos? ",
-    "indice": 458,
+    "indice": 459,
     "respuestas": [
       {
         "nombre": "Una sensaci\u00f3n de calma y relajaci\u00f3n",
@@ -8674,7 +8670,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 comunican psicol\u00f3gicamente los colores fr\u00edos? ",
-    "indice": 459,
+    "indice": 460,
     "respuestas": [
       {
         "nombre": "Una sensaci\u00f3n de calma y relajaci\u00f3n",
@@ -8693,7 +8689,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1les son los colores primarios? ",
-    "indice": 460,
+    "indice": 461,
     "respuestas": [
       {
         "nombre": "Rojo, verde y azul",
@@ -8712,7 +8708,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfPara qu\u00e9 sirve una ret\u00edcula? ",
-    "indice": 461,
+    "indice": 462,
     "respuestas": [
       {
         "nombre": "Para crear dibujos art\u00edsticos",
@@ -8731,7 +8727,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es una viuda en la diagramaci\u00f3n de texto? ",
-    "indice": 462,
+    "indice": 463,
     "respuestas": [
       {
         "nombre": "Un espacio vac\u00edo en la parte inferior de una p\u00e1gina",
@@ -8750,7 +8746,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfIdentifique el concepto de medianil en la diagramaci\u00f3n? ",
-    "indice": 463,
+    "indice": 464,
     "respuestas": [
       {
         "nombre": "Una l\u00ednea que divide una p\u00e1gina en dos partes iguales",
@@ -8769,7 +8765,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el horizonte \u00e1urico dentro de la diagramaci\u00f3n y para qu\u00e9 sirve? ",
-    "indice": 464,
+    "indice": 465,
     "respuestas": [
       {
         "nombre": "Una l\u00ednea que se utiliza para alinear elementos de dise\u00f1o en una p\u00e1gina",
@@ -8788,7 +8784,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfEl machote es una herramienta de diagramaci\u00f3n, identifique para qu\u00e9 sirve? ",
-    "indice": 465,
+    "indice": 466,
     "respuestas": [
       {
         "nombre": "Para dise\u00f1ar gr\u00e1ficos vectoriales",
@@ -8807,7 +8803,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfIdentifique los componentes de una portada de revista? ",
-    "indice": 466,
+    "indice": 467,
     "respuestas": [
       {
         "nombre": "T\u00edtulo, subt\u00edtulo, imagen de portada, descripci\u00f3n del contenido",
@@ -8826,7 +8822,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 elementos componen el estilo de una revista? ",
-    "indice": 467,
+    "indice": 468,
     "respuestas": [
       {
         "nombre": "Elecci\u00f3n de tipograf\u00eda, colores, dise\u00f1o de p\u00e1gina y contenido",
@@ -8845,7 +8841,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el estilo art\u00edstico? ",
-    "indice": 468,
+    "indice": 469,
     "respuestas": [
       {
         "nombre": "Un conjunto de t\u00e9cnicas de dibujo utilizadas por artistas",
@@ -8864,7 +8860,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el pop art y c\u00f3mo se origin\u00f3 el estilo? ",
-    "indice": 469,
+    "indice": 470,
     "respuestas": [
       {
         "nombre": "Un estilo art\u00edstico que utiliza motivos populares y de la cultura de masas, originado en la d\u00e9cada de 1950 en el Reino Unido",
@@ -8883,7 +8879,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfIdentifique qu\u00e9 concepto representa al minimalismo? ",
-    "indice": 470,
+    "indice": 471,
     "respuestas": [
       {
         "nombre": "Uso excesivo de ornamentos y decoraciones",
@@ -8898,7 +8894,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es la s\u00edntesis de la imagen? ",
-    "indice": 471,
+    "indice": 472,
     "respuestas": [
       {
         "nombre": "Es la creaci\u00f3n de im\u00e1genes a trav\u00e9s de la combinaci\u00f3n de distintos elementos visuales.",
@@ -8917,7 +8913,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQui\u00e9n es Andy Warhol y cu\u00e1l fue su aporte al dise\u00f1o gr\u00e1fico contempor\u00e1neo? ",
-    "indice": 472,
+    "indice": 473,
     "respuestas": [
       {
         "nombre": "Un dise\u00f1ador gr\u00e1fico conocido por su estilo minimalista.",
@@ -8936,7 +8932,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfIdentifique los tipos de collage existentes? ",
-    "indice": 473,
+    "indice": 474,
     "respuestas": [
       {
         "nombre": "Anal\u00f3gico y digital.",
@@ -8955,7 +8951,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQu\u00e9 es el collage y cu\u00e1l es su concepto? ",
-    "indice": 474,
+    "indice": 475,
     "respuestas": [
       {
         "nombre": "Es una t\u00e9cnica art\u00edstica que consiste en pegar objetos diversos en una superficie plana.",
@@ -8974,7 +8970,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfQui\u00e9n es David Carson y en qu\u00e9 se basa su estilo de dise\u00f1o? ",
-    "indice": 475,
+    "indice": 476,
     "respuestas": [
       {
         "nombre": "Un dise\u00f1ador gr\u00e1fico que utiliza tipograf\u00eda poco legible y elementos gr\u00e1ficos abstractos.",
@@ -8993,7 +8989,7 @@
   {
     "seccion": "PROFESORA  XIOMARA CRESPO, MATERIA  DISE\u00d1O GR\u00c1FICO ",
     "titulo": "\u00bfCu\u00e1l es el estilo propio de dise\u00f1o? ",
-    "indice": 476,
+    "indice": 477,
     "respuestas": [
       {
         "nombre": "Es el conjunto de caracter\u00edsticas y t\u00e9cnicas que un dise\u00f1ador utiliza para crear sus trabajos de manera \u00fanica e identificable.",
